@@ -16,6 +16,12 @@ from __future__ import annotations
 
 import datetime as dt
 import json
+
+import os
+import sys
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import feedlib  # noqa: E402
 import os
 import re
 import sys
@@ -61,7 +67,7 @@ def main() -> int:
     as_json = "--json" in flags or "--format=json" in flags
     within = next((int(f.split("=")[1]) for f in flags if f.startswith("--within-days=")), None)
 
-    feed = json.load(open(feed_path))
+    feed = feedlib.with_derived(json.load(open(feed_path)))
     today = dt.date.today()
 
     # One id can be on several platforms with different dates (gemini-2.5-flash on the Gemini

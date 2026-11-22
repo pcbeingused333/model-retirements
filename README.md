@@ -1,7 +1,10 @@
 # model-retirements
 
-Work in progress. The feed was built and checked on 2026-11-20; it is rebuilt by hand for now, so
-check `generated_at` and each source's `read_on` in `data/feed.json` before relying on a date.
+![rebuild](https://github.com/pcbeingused333/model-retirements/actions/workflows/rebuild.yml/badge.svg)
+
+Work in progress. A scheduled workflow rereads the four pages every six hours and rewrites the feed
+only when something a consumer relies on changed, so `generated_at` is when the content last changed.
+`data/status.json` says when the last check ran.
 
 A machine-readable feed of the dates LLM providers stop serving their models, rebuilt from the
 providers' own deprecation pages by parsers.
@@ -64,6 +67,7 @@ an id and reports each one.
 | `parse_gemini.py` | Gemini API's page, from its Markdown source (the HTML is a JavaScript shell with no content). |
 | `parse_vertex.py` | Vertex AI's page, from its HTML tables. |
 | `merge_feed.py` | Builds `feed.json` from the four parsers and carries over only what no page confirms, marked unverified. |
+| `rebuild.py`, `feedlib.py` | One rebuild from the live pages with the safety check, and the helpers that compute status from a date. |
 | `drift.py` | Compares a held table against a freshly parsed page and lists every disagreement. |
 | `scan.py` | Language-agnostic scan of a code base for ids in the feed. |
 | `data/seed_feed.json`, `build_feed.py` | The original hand-maintained table and how it was exported. Kept so `drift.py` can still measure against it. |
@@ -91,6 +95,19 @@ Pages: `developers.openai.com/api/docs/deprecations`,
 `aistudio.google.com/docs/deprecations.md` (what `ai.google.dev/gemini-api/docs/deprecations`
 redirects to), and `docs.cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions`.
 `scan.py` exits 1 when it reports anything, so it can gate CI.
+
+## Keeping it current
+
+`.github/workflows/rebuild.yml` runs `rebuild.py` every six hours. Providers announce retirements
+months ahead, so six hours is plenty; the point is to notice a change within the day.
+
+- **It only writes when the content changed** (a date, a replacement, a certainty, an id). Fields that
+  depend on today's date (`status`, `days_remaining`) are not stored: `feedlib.derive` computes them
+  when the feed is read, so a quiet month produces no commits and nothing goes stale.
+- **A rebuild that looks wrong fails the run instead of being committed.** If a provider drops to zero
+  entries (its page changed shape and a parser read nothing) or loses more than a fifth of them, the
+  feed is left alone and GitHub emails the owner about the failed run. `tests/test_rebuild.py` pins this.
+- The daily first run also records the time of the check in `data/status.json`.
 
 ## Corrections
 

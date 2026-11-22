@@ -44,15 +44,12 @@
    "shutdown": "2023-03-23",
    "shutdown_as_published": "Mar 23, 2023",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gpt-4o",
    "announced": "2023-03-20",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/code-cushman-001"
    ]
@@ -64,15 +61,12 @@
    "shutdown": "2023-03-23",
    "shutdown_as_published": "Mar 23, 2023",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gpt-4o",
    "announced": "2023-03-20",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/code-cushman-002"
    ]
@@ -84,15 +78,12 @@
    "shutdown": "2023-03-23",
    "shutdown_as_published": "Mar 23, 2023",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gpt-4o",
    "announced": "2023-03-20",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/code-davinci-001"
    ]
@@ -104,15 +95,12 @@
    "shutdown": "2023-03-23",
    "shutdown_as_published": "Mar 23, 2023",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gpt-4o",
    "announced": "2023-03-20",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/code-davinci-002"
    ]
@@ -124,15 +112,12 @@
    "shutdown": "2024-01-04",
    "shutdown_as_published": "Jan 4, 2024",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gpt-4o",
    "announced": "2023-07-06",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/code-davinci-edit-001"
    ]
@@ -144,15 +129,12 @@
    "shutdown": "2024-01-04",
    "shutdown_as_published": "Jan 4, 2024",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "text-embedding-3-small",
    "announced": "2023-07-06",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/code-search-ada-code-001"
    ]
@@ -164,15 +146,12 @@
    "shutdown": "2024-01-04",
    "shutdown_as_published": "Jan 4, 2024",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "text-embedding-3-small",
    "announced": "2023-07-06",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/code-search-ada-text-001"
    ]
@@ -184,15 +163,12 @@
    "shutdown": "2024-01-04",
    "shutdown_as_published": "Jan 4, 2024",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "text-embedding-3-small",
    "announced": "2023-07-06",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/code-search-babbage-code-001"
    ]
@@ -204,15 +180,12 @@
    "shutdown": "2024-01-04",
    "shutdown_as_published": "Jan 4, 2024",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "text-embedding-3-small",
    "announced": "2023-07-06",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/code-search-babbage-text-001"
    ]
@@ -224,15 +197,12 @@
    "shutdown": "2024-01-04",
    "shutdown_as_published": "Jan 4, 2024",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gpt-3.5-turbo-instruct",
    "announced": "2023-07-06",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/text-ada-001"
    ]
@@ -244,15 +214,12 @@
    "shutdown": "2024-01-04",
    "shutdown_as_published": "Jan 4, 2024",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gpt-3.5-turbo-instruct",
    "announced": "2023-07-06",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/text-babbage-001"
    ]
@@ -264,15 +231,12 @@
    "shutdown": "2024-01-04",
    "shutdown_as_published": "Jan 4, 2024",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gpt-3.5-turbo-instruct",
    "announced": "2023-07-06",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/text-curie-001"
    ]
@@ -284,15 +248,12 @@
    "shutdown": "2024-01-04",
    "shutdown_as_published": "Jan 4, 2024",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gpt-3.5-turbo-instruct",
    "announced": "2023-07-06",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/text-davinci-001"
    ]
@@ -304,15 +265,12 @@
    "shutdown": "2024-01-04",
    "shutdown_as_published": "Jan 4, 2024",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gpt-3.5-turbo-instruct",
    "announced": "2023-07-06",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/text-davinci-002"
    ]
@@ -324,15 +282,12 @@
    "shutdown": "2024-01-04",
    "shutdown_as_published": "Jan 4, 2024",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gpt-3.5-turbo-instruct",
    "announced": "2023-07-06",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/text-davinci-003"
    ]
@@ -344,15 +299,12 @@
    "shutdown": "2024-01-04",
    "shutdown_as_published": "Jan 4, 2024",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gpt-4o",
    "announced": "2023-07-06",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/text-davinci-edit-001"
    ]
@@ -364,15 +316,12 @@
    "shutdown": "2024-01-04",
    "shutdown_as_published": "Jan 4, 2024",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "text-embedding-3-small",
    "announced": "2023-07-06",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/text-search-ada-doc-001"
    ]
@@ -384,15 +333,12 @@
    "shutdown": "2024-01-04",
    "shutdown_as_published": "Jan 4, 2024",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "text-embedding-3-small",
    "announced": "2023-07-06",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/text-search-ada-query-001"
    ]
@@ -404,15 +350,12 @@
    "shutdown": "2024-01-04",
    "shutdown_as_published": "Jan 4, 2024",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "text-embedding-3-small",
    "announced": "2023-07-06",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/text-search-babbage-doc-001"
    ]
@@ -424,15 +367,12 @@
    "shutdown": "2024-01-04",
    "shutdown_as_published": "Jan 4, 2024",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "text-embedding-3-small",
    "announced": "2023-07-06",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/text-search-babbage-query-001"
    ]
@@ -444,15 +384,12 @@
    "shutdown": "2024-01-04",
    "shutdown_as_published": "Jan 4, 2024",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "text-embedding-3-small",
    "announced": "2023-07-06",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/text-search-curie-doc-001"
    ]
@@ -464,15 +401,12 @@
    "shutdown": "2024-01-04",
    "shutdown_as_published": "Jan 4, 2024",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "text-embedding-3-small",
    "announced": "2023-07-06",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/text-search-curie-query-001"
    ]
@@ -484,15 +418,12 @@
    "shutdown": "2024-01-04",
    "shutdown_as_published": "Jan 4, 2024",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "text-embedding-3-small",
    "announced": "2023-07-06",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/text-search-davinci-doc-001"
    ]
@@ -504,15 +435,12 @@
    "shutdown": "2024-01-04",
    "shutdown_as_published": "Jan 4, 2024",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "text-embedding-3-small",
    "announced": "2023-07-06",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/text-search-davinci-query-001"
    ]
@@ -524,15 +452,12 @@
    "shutdown": "2024-01-04",
    "shutdown_as_published": "Jan 4, 2024",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "text-embedding-3-small",
    "announced": "2023-07-06",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/text-similarity-ada-001"
    ]
@@ -544,15 +469,12 @@
    "shutdown": "2024-01-04",
    "shutdown_as_published": "Jan 4, 2024",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "text-embedding-3-small",
    "announced": "2023-07-06",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/text-similarity-babbage-001"
    ]
@@ -564,15 +486,12 @@
    "shutdown": "2024-01-04",
    "shutdown_as_published": "Jan 4, 2024",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "text-embedding-3-small",
    "announced": "2023-07-06",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/text-similarity-curie-001"
    ]
@@ -584,15 +503,12 @@
    "shutdown": "2024-01-04",
    "shutdown_as_published": "Jan 4, 2024",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "text-embedding-3-small",
    "announced": "2023-07-06",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/text-similarity-davinci-001"
    ]
@@ -604,15 +520,12 @@
    "shutdown": "2024-09-13",
    "shutdown_as_published": "Sep 13, 2024",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gpt-3.5-turbo",
    "announced": "2023-06-13",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/gpt-3.5-turbo-0301"
    ]
@@ -624,15 +537,12 @@
    "shutdown": "2024-09-13",
    "shutdown_as_published": "Sep 13, 2024",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gpt-3.5-turbo",
    "announced": "2023-11-06",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/gpt-3.5-turbo-0613"
    ]
@@ -644,15 +554,12 @@
    "shutdown": "2024-09-13",
    "shutdown_as_published": "Sep 13, 2024",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gpt-3.5-turbo",
    "announced": "2023-11-06",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/gpt-3.5-turbo-16k-0613"
    ]
@@ -663,15 +570,12 @@
    "platform": "claude-api",
    "shutdown": "2024-11-06",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "claude-haiku-4-5-20251001",
    "announced": "2024-09-04",
    "page_state": "Retired",
    "via": "deprecation history",
    "source": "https://platform.claude.com/docs/en/about-claude/model-deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "anthropic/claude-1.0"
    ]
@@ -682,15 +586,12 @@
    "platform": "claude-api",
    "shutdown": "2024-11-06",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "claude-haiku-4-5-20251001",
    "announced": "2024-09-04",
    "page_state": "Retired",
    "via": "deprecation history",
    "source": "https://platform.claude.com/docs/en/about-claude/model-deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "anthropic/claude-1.1"
    ]
@@ -701,15 +602,12 @@
    "platform": "claude-api",
    "shutdown": "2024-11-06",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "claude-haiku-4-5-20251001",
    "announced": "2024-09-04",
    "page_state": "Retired",
    "via": "deprecation history",
    "source": "https://platform.claude.com/docs/en/about-claude/model-deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "anthropic/claude-1.2"
    ]
@@ -720,15 +618,12 @@
    "platform": "claude-api",
    "shutdown": "2024-11-06",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "claude-haiku-4-5-20251001",
    "announced": "2024-09-04",
    "page_state": "Retired",
    "via": "deprecation history",
    "source": "https://platform.claude.com/docs/en/about-claude/model-deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "anthropic/claude-1.3"
    ]
@@ -739,15 +634,12 @@
    "platform": "claude-api",
    "shutdown": "2024-11-06",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "claude-haiku-4-5-20251001",
    "announced": "2024-09-04",
    "page_state": "Retired",
    "via": "deprecation history",
    "source": "https://platform.claude.com/docs/en/about-claude/model-deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "anthropic/claude-instant-1.0"
    ]
@@ -758,15 +650,12 @@
    "platform": "claude-api",
    "shutdown": "2024-11-06",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "claude-haiku-4-5-20251001",
    "announced": "2024-09-04",
    "page_state": "Retired",
    "via": "deprecation history",
    "source": "https://platform.claude.com/docs/en/about-claude/model-deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "anthropic/claude-instant-1.1"
    ]
@@ -777,15 +666,12 @@
    "platform": "claude-api",
    "shutdown": "2024-11-06",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "claude-haiku-4-5-20251001",
    "announced": "2024-09-04",
    "page_state": "Retired",
    "via": "deprecation history",
    "source": "https://platform.claude.com/docs/en/about-claude/model-deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "anthropic/claude-instant-1.2"
    ]
@@ -797,15 +683,12 @@
    "shutdown": "2024-12-06",
    "shutdown_as_published": "Dec 6, 2024",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gpt-4o",
    "announced": "2024-06-06",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/gpt-4-1106-vision-preview"
    ]
@@ -817,15 +700,12 @@
    "shutdown": "2024-12-06",
    "shutdown_as_published": "Dec 6, 2024",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gpt-4o",
    "announced": "2024-06-06",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/gpt-4-vision-preview"
    ]
@@ -837,13 +717,10 @@
    "shutdown": "2025-04-21",
    "shutdown_as_published": "April 21, 2025",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gemini-2.5-flash-lite",
    "released": "May 2023",
    "source": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "vertex_ai/chat-bison",
     "publishers/google/models/chat-bison"
@@ -856,13 +733,10 @@
    "shutdown": "2025-04-21",
    "shutdown_as_published": "April 21, 2025",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gemini-2.5-flash-lite",
    "released": "May 2023",
    "source": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "vertex_ai/code-gecko",
     "publishers/google/models/code-gecko"
@@ -875,13 +749,10 @@
    "shutdown": "2025-04-21",
    "shutdown_as_published": "April 21, 2025",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gemini-2.5-flash",
    "released": "February 15, 2024",
    "source": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "vertex_ai/gemini-1.0-pro-001",
     "publishers/google/models/gemini-1.0-pro-001"
@@ -894,13 +765,10 @@
    "shutdown": "2025-04-21",
    "shutdown_as_published": "April 21, 2025",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gemini-2.5-flash",
    "released": "April 9, 2024",
    "source": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "vertex_ai/gemini-1.0-pro-002",
     "publishers/google/models/gemini-1.0-pro-002"
@@ -913,13 +781,10 @@
    "shutdown": "2025-04-21",
    "shutdown_as_published": "April 21, 2025",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gemini-2.5-flash",
    "released": "February 15, 2024",
    "source": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "vertex_ai/gemini-1.0-pro-vision-001",
     "publishers/google/models/gemini-1.0-pro-vision-001"
@@ -932,13 +797,10 @@
    "shutdown": "2025-04-21",
    "shutdown_as_published": "April 21, 2025",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gemini-2.5-flash-lite",
    "released": "May 2023",
    "source": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "vertex_ai/text-bison",
     "publishers/google/models/text-bison"
@@ -951,13 +813,10 @@
    "shutdown": "2025-04-21",
    "shutdown_as_published": "April 21, 2025",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gemini-embedding-001",
    "released": "June 7, 2023",
    "source": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "vertex_ai/textembedding-gecko@001",
     "publishers/google/models/textembedding-gecko@001"
@@ -970,13 +829,10 @@
    "shutdown": "2025-04-21",
    "shutdown_as_published": "April 21, 2025",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gemini-embedding-001",
    "released": "November 2, 2023",
    "source": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "vertex_ai/textembedding-gecko@002",
     "publishers/google/models/textembedding-gecko@002"
@@ -989,13 +845,10 @@
    "shutdown": "2025-05-24",
    "shutdown_as_published": "May 24, 2025",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gemini-2.5-flash-lite",
    "released": "May 24, 2024",
    "source": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "vertex_ai/gemini-1.5-flash-001",
     "publishers/google/models/gemini-1.5-flash-001"
@@ -1008,13 +861,10 @@
    "shutdown": "2025-05-24",
    "shutdown_as_published": "May 24, 2025",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gemini-2.5-flash",
    "released": "May 24, 2024",
    "source": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "vertex_ai/gemini-1.5-pro-001",
     "publishers/google/models/gemini-1.5-pro-001"
@@ -1027,13 +877,10 @@
    "shutdown": "2025-05-24",
    "shutdown_as_published": "May 24, 2025",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gemini-embedding-001",
    "released": "November 2, 2023",
    "source": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "vertex_ai/textembedding-gecko-multilingual@001",
     "publishers/google/models/textembedding-gecko-multilingual@001"
@@ -1046,13 +893,10 @@
    "shutdown": "2025-05-24",
    "shutdown_as_published": "May 24, 2025",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gemini-embedding-001",
    "released": "December 12, 2023",
    "source": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "vertex_ai/textembedding-gecko@003*",
     "publishers/google/models/textembedding-gecko@003*"
@@ -1065,15 +909,12 @@
    "shutdown": "2025-06-06",
    "shutdown_as_published": "Jun 6, 2025",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gpt-4o",
    "announced": "2024-06-06",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/gpt-4-32k"
    ]
@@ -1085,15 +926,12 @@
    "shutdown": "2025-06-06",
    "shutdown_as_published": "Jun 6, 2025",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gpt-4o",
    "announced": "2023-06-13",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/gpt-4-32k-0314"
    ]
@@ -1105,15 +943,12 @@
    "shutdown": "2025-06-06",
    "shutdown_as_published": "Jun 6, 2025",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gpt-4o",
    "announced": "2024-06-06",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/gpt-4-32k-0613"
    ]
@@ -1125,15 +960,12 @@
    "shutdown": "2025-07-14",
    "shutdown_as_published": "Jul 14, 2025",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gpt-4.1",
    "announced": "2025-04-14",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/gpt-4.5-preview"
    ]
@@ -1144,15 +976,12 @@
    "platform": "claude-api",
    "shutdown": "2025-07-21",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "claude-opus-4-8",
    "announced": "2025-01-21",
    "page_state": "Retired",
    "via": "deprecation history",
    "source": "https://platform.claude.com/docs/en/about-claude/model-deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "anthropic/claude-2.0"
    ]
@@ -1163,15 +992,12 @@
    "platform": "claude-api",
    "shutdown": "2025-07-21",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "claude-opus-4-8",
    "announced": "2025-01-21",
    "page_state": "Retired",
    "via": "deprecation history",
    "source": "https://platform.claude.com/docs/en/about-claude/model-deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "anthropic/claude-2.1"
    ]
@@ -1182,15 +1008,12 @@
    "platform": "claude-api",
    "shutdown": "2025-07-21",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "claude-sonnet-5-5",
    "announced": "2025-01-21",
    "page_state": "Retired",
    "via": "deprecation history",
    "source": "https://platform.claude.com/docs/en/about-claude/model-deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "anthropic/claude-3-sonnet-20240229"
    ]
@@ -1202,15 +1025,12 @@
    "shutdown": "2025-07-28",
    "shutdown_as_published": "Jul 28, 2025",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "o3",
    "announced": "2025-04-28",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/o1-preview"
    ]
@@ -1222,13 +1042,10 @@
    "shutdown": "2025-09-24",
    "shutdown_as_published": "September 24, 2025",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gemini-2.5-flash-lite",
    "released": "September 24, 2024",
    "source": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "vertex_ai/gemini-1.5-flash-002",
     "publishers/google/models/gemini-1.5-flash-002"
@@ -1241,13 +1058,10 @@
    "shutdown": "2025-09-24",
    "shutdown_as_published": "September 24, 2025",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gemini-2.5-flash",
    "released": "September 24, 2024",
    "source": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "vertex_ai/gemini-1.5-pro-002",
     "publishers/google/models/gemini-1.5-pro-002"
@@ -1260,13 +1074,10 @@
    "shutdown": "2025-09-24",
    "shutdown_as_published": "September 24, 2025",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gemini-2.5-flash-image",
    "released": "June 7, 2023",
    "source": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "vertex_ai/imagetext",
     "publishers/google/models/imagetext"
@@ -1279,15 +1090,12 @@
    "shutdown": "2025-10-10",
    "shutdown_as_published": "Oct 10, 2025",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gpt-audio-1.5",
    "announced": "2025-06-10",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/gpt-4o-audio-preview-2024-10-01"
    ]
@@ -1299,15 +1107,12 @@
    "shutdown": "2025-10-10",
    "shutdown_as_published": "Oct 10, 2025",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gpt-realtime-1.5",
    "announced": "2025-06-10",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/gpt-4o-realtime-preview-2024-10-01"
    ]
@@ -1319,15 +1124,12 @@
    "shutdown": "2025-10-27",
    "shutdown_as_published": "Oct 27, 2025",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "o4-mini",
    "announced": "2025-04-28",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/o1-mini"
    ]
@@ -1339,15 +1141,12 @@
    "shutdown": "2025-10-27",
    "shutdown_as_published": "Oct 27, 2025",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "omni-moderation",
    "announced": "2025-04-28",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/text-moderation-007"
    ]
@@ -1359,15 +1158,12 @@
    "shutdown": "2025-10-27",
    "shutdown_as_published": "Oct 27, 2025",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "omni-moderation",
    "announced": "2025-04-28",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/text-moderation-latest"
    ]
@@ -1379,15 +1175,12 @@
    "shutdown": "2025-10-27",
    "shutdown_as_published": "Oct 27, 2025",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "omni-moderation",
    "announced": "2025-04-28",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/text-moderation-stable"
    ]
@@ -1398,15 +1191,12 @@
    "platform": "claude-api",
    "shutdown": "2025-10-28",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "claude-sonnet-5-5",
    "announced": "2025-08-13",
    "page_state": "Retired",
    "via": "deprecation history",
    "source": "https://platform.claude.com/docs/en/about-claude/model-deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "anthropic/claude-3-5-sonnet-20240620"
    ]
@@ -1417,15 +1207,12 @@
    "platform": "claude-api",
    "shutdown": "2025-10-28",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "claude-sonnet-5-5",
    "announced": "2025-08-13",
    "page_state": "Retired",
    "via": "deprecation history",
    "source": "https://platform.claude.com/docs/en/about-claude/model-deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "anthropic/claude-3-5-sonnet-20241022"
    ]
@@ -1436,11 +1223,8 @@
    "platform": "claude-api",
    "shutdown": "2025-10-28",
    "date_certainty": "unknown",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "claude-sonnet-5-5",
    "verified": false,
-   "verified_on": "2026-10-19",
    "also_written_as": [
     "anthropic/claude-3-5-sonnet-latest"
    ],
@@ -1453,15 +1237,12 @@
    "shutdown": "2025-10-30",
    "shutdown_as_published": "October 30, 2025",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gemini-embedding-2",
    "replacement_note": "",
    "released": "April 9, 2024",
    "section": "Deprecated models",
    "source": "https://ai.google.dev/gemini-api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "gemini/embedding-001",
     "models/embedding-001"
@@ -1474,15 +1255,12 @@
    "shutdown": "2025-10-30",
    "shutdown_as_published": "October 30, 2025",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gemini-embedding-2",
    "replacement_note": "",
    "released": "",
    "section": "Deprecated models",
    "source": "https://ai.google.dev/gemini-api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "gemini/embedding-gecko-001",
     "models/embedding-gecko-001"
@@ -1495,15 +1273,12 @@
    "shutdown": "2025-10-30",
    "shutdown_as_published": "October 30, 2025",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gemini-embedding-2",
    "replacement_note": "",
    "released": "",
    "section": "Deprecated models",
    "source": "https://ai.google.dev/gemini-api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "gemini/gemini-embedding-exp",
     "models/gemini-embedding-exp"
@@ -1516,15 +1291,12 @@
    "shutdown": "2025-10-30",
    "shutdown_as_published": "October 30, 2025",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gemini-embedding-2",
    "replacement_note": "",
    "released": "",
    "section": "Deprecated models",
    "source": "https://ai.google.dev/gemini-api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "gemini/gemini-embedding-exp-03-07",
     "models/gemini-embedding-exp-03-07"
@@ -1537,15 +1309,12 @@
    "shutdown": "2025-11-10",
    "shutdown_as_published": "November 10, 2025",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gemini-nano-banana-2.1",
    "replacement_note": "",
    "released": "February 6, 2025",
    "section": "Deprecated models",
    "source": "https://ai.google.dev/gemini-api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "gemini/imagen-3.0-generate-002",
     "models/imagen-3.0-generate-002"
@@ -1558,15 +1327,12 @@
    "shutdown": "2025-11-12",
    "shutdown_as_published": "November 12, 2025",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gemini-omni-1.2-flash",
    "replacement_note": "",
    "released": "July 31, 2025",
    "section": "Deprecated models",
    "source": "https://ai.google.dev/gemini-api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "gemini/veo-3.0-fast-generate-preview",
     "models/veo-3.0-fast-generate-preview"
@@ -1579,15 +1345,12 @@
    "shutdown": "2025-11-12",
    "shutdown_as_published": "November 12, 2025",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gemini-omni-1.2-flash",
    "replacement_note": "",
    "released": "July 31, 2025",
    "section": "Deprecated models",
    "source": "https://ai.google.dev/gemini-api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "gemini/veo-3.0-generate-preview",
     "models/veo-3.0-generate-preview"
@@ -1600,15 +1363,12 @@
    "shutdown": "2025-11-14",
    "shutdown_as_published": "November 14, 2025",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gemini-nano-banana-2.1",
    "replacement_note": "",
    "released": "May 7, 2025",
    "section": "Deprecated models",
    "source": "https://ai.google.dev/gemini-api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "gemini/gemini-2.0-flash-preview-image-generation",
     "models/gemini-2.0-flash-preview-image-generation"
@@ -1621,15 +1381,12 @@
    "shutdown": "2025-11-18",
    "shutdown_as_published": "November 18, 2025",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gemini-3.6-flash",
    "replacement_note": "",
    "released": "May 20, 2025",
    "section": "Deprecated models",
    "source": "https://ai.google.dev/gemini-api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "gemini/gemini-2.5-flash-preview-05-20",
     "models/gemini-2.5-flash-preview-05-20"
@@ -1642,15 +1399,12 @@
    "shutdown": "2025-12-02",
    "shutdown_as_published": "December 2, 2025",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gemini-3.8-flash",
    "replacement_note": "",
    "released": "March 3, 2025",
    "section": "Deprecated models",
    "source": "https://ai.google.dev/gemini-api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "gemini/gemini-2.5-pro-preview-03-25",
     "models/gemini-2.5-pro-preview-03-25"
@@ -1663,15 +1417,12 @@
    "shutdown": "2025-12-02",
    "shutdown_as_published": "December 2, 2025",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gemini-3.8-flash",
    "replacement_note": "",
    "released": "May 6, 2025",
    "section": "Deprecated models",
    "source": "https://ai.google.dev/gemini-api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "gemini/gemini-2.5-pro-preview-05-06",
     "models/gemini-2.5-pro-preview-05-06"
@@ -1684,15 +1435,12 @@
    "shutdown": "2025-12-02",
    "shutdown_as_published": "December 2, 2025",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gemini-3.8-flash",
    "replacement_note": "",
    "released": "June 5, 2025",
    "section": "Deprecated models",
    "source": "https://ai.google.dev/gemini-api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "gemini/gemini-2.5-pro-preview-06-05",
     "models/gemini-2.5-pro-preview-06-05"
@@ -1705,15 +1453,12 @@
    "shutdown": "2025-12-09",
    "shutdown_as_published": "December 9, 2025",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gemini-3.1-flash-lite",
    "replacement_note": "",
    "released": "February 5, 2025",
    "section": "Deprecated models",
    "source": "https://ai.google.dev/gemini-api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "gemini/gemini-2.0-flash-lite-preview",
     "models/gemini-2.0-flash-lite-preview"
@@ -1726,15 +1471,12 @@
    "shutdown": "2025-12-09",
    "shutdown_as_published": "December 9, 2025",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gemini-3.1-flash-lite",
    "replacement_note": "",
    "released": "February 5, 2025",
    "section": "Deprecated models",
    "source": "https://ai.google.dev/gemini-api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "gemini/gemini-2.0-flash-lite-preview-02-05",
     "models/gemini-2.0-flash-lite-preview-02-05"
@@ -1747,15 +1489,12 @@
    "shutdown": "2025-12-09",
    "shutdown_as_published": "December 9, 2025",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gemini-3.8-live",
    "replacement_note": "",
    "released": "April 9, 2025",
    "section": "Deprecated models",
    "source": "https://ai.google.dev/gemini-api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "gemini/gemini-2.0-flash-live-001",
     "models/gemini-2.0-flash-live-001"
@@ -1768,15 +1507,12 @@
    "shutdown": "2025-12-09",
    "shutdown_as_published": "December 9, 2025",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gemini-3.8-live",
    "replacement_note": "",
    "released": "June 17, 2025",
    "section": "Deprecated models",
    "source": "https://ai.google.dev/gemini-api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "gemini/gemini-live-2.5-flash-preview",
     "models/gemini-live-2.5-flash-preview"
@@ -1788,15 +1524,12 @@
    "platform": "claude-api",
    "shutdown": "2026-01-05",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "claude-opus-4-8",
    "announced": "2025-06-30",
    "page_state": "Retired",
    "via": "deprecation history",
    "source": "https://platform.claude.com/docs/en/about-claude/model-deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "anthropic/claude-3-opus-20240229"
    ]
@@ -1807,11 +1540,8 @@
    "platform": "claude-api",
    "shutdown": "2026-01-05",
    "date_certainty": "unknown",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "claude-opus-4-8",
    "verified": false,
-   "verified_on": "2026-10-19",
    "also_written_as": [
     "anthropic/claude-3-opus-latest"
    ],
@@ -1824,15 +1554,12 @@
    "shutdown": "2026-01-14",
    "shutdown_as_published": "January 14, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gemini-embedding-2",
    "replacement_note": "",
    "released": "April 9, 2024",
    "section": "Deprecated models",
    "source": "https://ai.google.dev/gemini-api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "gemini/text-embedding-004",
     "models/text-embedding-004"
@@ -1845,15 +1572,12 @@
    "shutdown": "2026-01-15",
    "shutdown_as_published": "January 15, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gemini-nano-banana-2.1",
    "replacement_note": "",
    "released": "May 7, 2025",
    "section": "Deprecated models",
    "source": "https://ai.google.dev/gemini-api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "gemini/gemini-2.5-flash-image-preview",
     "models/gemini-2.5-flash-image-preview"
@@ -1866,15 +1590,12 @@
    "shutdown": "2026-02-12",
    "shutdown_as_published": "Feb 12, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gpt-5-codex-mini",
    "announced": "2025-11-17",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/codex-mini-latest"
    ]
@@ -1886,15 +1607,12 @@
    "shutdown": "2026-02-17",
    "shutdown_as_published": "February 17, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gemini-3.6-flash",
    "replacement_note": "",
    "released": "September 25, 2025",
    "section": "Deprecated models",
    "source": "https://ai.google.dev/gemini-api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "gemini/gemini-2.5-flash-preview-09-2025",
     "models/gemini-2.5-flash-preview-09-2025"
@@ -1907,15 +1625,12 @@
    "shutdown": "2026-02-17",
    "shutdown_as_published": "February 17, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gemini-nano-banana-2.1",
    "replacement_note": "",
    "released": "June 24, 2025",
    "section": "Deprecated models",
    "source": "https://ai.google.dev/gemini-api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "gemini/imagen-4.0-generate-preview-06-06",
     "models/imagen-4.0-generate-preview-06-06"
@@ -1928,15 +1643,12 @@
    "shutdown": "2026-02-17",
    "shutdown_as_published": "February 17, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gemini-nano-banana-2.1",
    "replacement_note": "",
    "released": "June 24, 2025",
    "section": "Deprecated models",
    "source": "https://ai.google.dev/gemini-api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "gemini/imagen-4.0-ultra-generate-preview-06-06",
     "models/imagen-4.0-ultra-generate-preview-06-06"
@@ -1949,15 +1661,12 @@
    "shutdown": "2026-02-17",
    "shutdown_as_published": "Feb 17, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gpt-5.1-chat-latest",
    "announced": "2025-11-18",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/chatgpt-4o-latest"
    ]
@@ -1968,15 +1677,12 @@
    "platform": "claude-api",
    "shutdown": "2026-02-19",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "claude-haiku-4-5-20251001",
    "announced": "2025-12-19",
    "page_state": "Retired",
    "via": "status table",
    "source": "https://platform.claude.com/docs/en/about-claude/model-deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "anthropic/claude-3-5-haiku-20241022"
    ]
@@ -1987,11 +1693,8 @@
    "platform": "claude-api",
    "shutdown": "2026-02-19",
    "date_certainty": "unknown",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "claude-haiku-4-5-20251001",
    "verified": false,
-   "verified_on": "2026-10-19",
    "also_written_as": [
     "anthropic/claude-3-5-haiku-latest"
    ],
@@ -2003,15 +1706,12 @@
    "platform": "claude-api",
    "shutdown": "2026-02-19",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "claude-sonnet-5-5",
    "announced": "2025-10-28",
    "page_state": "Retired",
    "via": "status table",
    "source": "https://platform.claude.com/docs/en/about-claude/model-deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "anthropic/claude-3-7-sonnet-20250219"
    ]
@@ -2022,11 +1722,8 @@
    "platform": "claude-api",
    "shutdown": "2026-02-19",
    "date_certainty": "unknown",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "claude-sonnet-5-5",
    "verified": false,
-   "verified_on": "2026-10-19",
    "also_written_as": [
     "anthropic/claude-3-7-sonnet-latest"
    ],
@@ -2039,15 +1736,12 @@
    "shutdown": "2026-03-09",
    "shutdown_as_published": "March 9, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gemini-3.1-pro-preview",
    "replacement_note": "",
    "released": "November 18, 2025",
    "section": "Deprecated models",
    "source": "https://ai.google.dev/gemini-api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "gemini/gemini-3-pro-preview",
     "models/gemini-3-pro-preview"
@@ -2060,15 +1754,12 @@
    "shutdown": "2026-03-26",
    "shutdown_as_published": "Mar 26, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gpt-5, or gpt-4.1 for latency-sensitive tasks that don\u2019t require reasoning",
    "announced": "2025-09-26",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/gpt-4-0125-preview"
    ]
@@ -2080,15 +1771,12 @@
    "shutdown": "2026-03-26",
    "shutdown_as_published": "Mar 26, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gpt-5, or gpt-4.1 for latency-sensitive tasks that don\u2019t require reasoning",
    "announced": "2025-09-26",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/gpt-4-0314"
    ]
@@ -2100,15 +1788,12 @@
    "shutdown": "2026-03-26",
    "shutdown_as_published": "Mar 26, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gpt-5, or gpt-4.1 for latency-sensitive tasks that don\u2019t require reasoning",
    "announced": "2025-09-26",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/gpt-4-turbo-preview"
    ]
@@ -2120,15 +1805,12 @@
    "shutdown": "2026-03-26",
    "shutdown_as_published": "Mar 26, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gpt-5, or gpt-4.1 for latency-sensitive tasks that don\u2019t require reasoning",
    "announced": "2025-09-26",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/gpt-4-turbo-preview-completions"
    ]
@@ -2140,15 +1822,12 @@
    "shutdown": "2026-03-31",
    "shutdown_as_published": "March 31, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gemini-3.1-flash-lite",
    "replacement_note": "",
    "released": "September 25, 2025",
    "section": "Deprecated models",
    "source": "https://ai.google.dev/gemini-api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "gemini/gemini-2.5-flash-lite-preview-09-2025",
     "models/gemini-2.5-flash-lite-preview-09-2025"
@@ -2160,15 +1839,12 @@
    "platform": "claude-api",
    "shutdown": "2026-04-20",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "claude-haiku-4-5-20251001",
    "announced": "2026-02-19",
    "page_state": "Retired",
    "via": "status table",
    "source": "https://platform.claude.com/docs/en/about-claude/model-deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "anthropic/claude-3-haiku-20240307"
    ]
@@ -2180,15 +1856,12 @@
    "shutdown": "2026-04-30",
    "shutdown_as_published": "April 30, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gemini-robotics-er-2-preview",
    "replacement_note": "",
    "released": "September 25, 2025",
    "section": "Deprecated models",
    "source": "https://ai.google.dev/gemini-api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "gemini/gemini-robotics-er-1.5-preview",
     "models/gemini-robotics-er-1.5-preview"
@@ -2201,15 +1874,12 @@
    "shutdown": "2026-05-07",
    "shutdown_as_published": "May 7, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gpt-audio-1.5",
    "announced": "2025-09-15",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/gpt-4o-audio-preview"
    ]
@@ -2221,15 +1891,12 @@
    "shutdown": "2026-05-07",
    "shutdown_as_published": "May 7, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gpt-audio-mini",
    "announced": "2025-09-15",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/gpt-4o-mini-audio-preview"
    ]
@@ -2241,15 +1908,12 @@
    "shutdown": "2026-05-07",
    "shutdown_as_published": "May 7, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gpt-realtime-mini",
    "announced": "2025-09-15",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/gpt-4o-mini-realtime-preview"
    ]
@@ -2261,15 +1925,12 @@
    "shutdown": "2026-05-07",
    "shutdown_as_published": "May 7, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gpt-realtime-1.5",
    "announced": "2025-09-15",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/gpt-4o-realtime-preview"
    ]
@@ -2281,15 +1942,12 @@
    "shutdown": "2026-05-07",
    "shutdown_as_published": "May 7, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gpt-realtime-1.5",
    "announced": "2025-09-15",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/gpt-4o-realtime-preview-2024-12-17"
    ]
@@ -2301,15 +1959,12 @@
    "shutdown": "2026-05-07",
    "shutdown_as_published": "May 7, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gpt-realtime-1.5",
    "announced": "2025-09-15",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/gpt-4o-realtime-preview-2025-06-03"
    ]
@@ -2321,15 +1976,12 @@
    "shutdown": "2026-05-12",
    "shutdown_as_published": "May 12, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gpt-image-2, gpt-image-1, or gpt-image-1-mini",
    "announced": "2025-11-14",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/dall-e-2"
    ]
@@ -2341,15 +1993,12 @@
    "shutdown": "2026-05-12",
    "shutdown_as_published": "May 12, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gpt-image-2, gpt-image-1, or gpt-image-1-mini",
    "announced": "2025-11-14",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/dall-e-3"
    ]
@@ -2361,15 +2010,12 @@
    "shutdown": "2026-05-25",
    "shutdown_as_published": "May 25, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gemini-3.1-flash-lite",
    "replacement_note": "",
    "released": "March 3, 2026",
    "section": "Deprecated models",
    "source": "https://ai.google.dev/gemini-api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "gemini/gemini-3.1-flash-lite-preview",
     "models/gemini-3.1-flash-lite-preview"
@@ -2382,15 +2028,12 @@
    "shutdown": "2026-06-01",
    "shutdown_as_published": "June 1, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gemini-3.6-flash",
    "replacement_note": "",
    "released": "February 5, 2025",
    "section": "Deprecated models",
    "source": "https://ai.google.dev/gemini-api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "gemini/gemini-2.0-flash",
     "models/gemini-2.0-flash"
@@ -2403,15 +2046,12 @@
    "shutdown": "2026-06-01",
    "shutdown_as_published": "June 1, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gemini-3.6-flash",
    "replacement_note": "",
    "released": "February 5, 2025",
    "section": "Deprecated models",
    "source": "https://ai.google.dev/gemini-api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "gemini/gemini-2.0-flash-001",
     "models/gemini-2.0-flash-001"
@@ -2424,15 +2064,12 @@
    "shutdown": "2026-06-01",
    "shutdown_as_published": "June 1, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gemini-3.1-flash-lite",
    "replacement_note": "",
    "released": "February 25, 2025",
    "section": "Deprecated models",
    "source": "https://ai.google.dev/gemini-api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "gemini/gemini-2.0-flash-lite",
     "models/gemini-2.0-flash-lite"
@@ -2445,15 +2082,12 @@
    "shutdown": "2026-06-01",
    "shutdown_as_published": "June 1, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gemini-3.1-flash-lite",
    "replacement_note": "",
    "released": "February 25, 2025",
    "section": "Deprecated models",
    "source": "https://ai.google.dev/gemini-api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "gemini/gemini-2.0-flash-lite-001",
     "models/gemini-2.0-flash-lite-001"
@@ -2466,13 +2100,10 @@
    "shutdown": "2026-06-01",
    "shutdown_as_published": "June 1, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gemini-3.5-flash-lite",
    "released": "February 5, 2025",
    "source": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "vertex_ai/gemini-2.0-flash",
     "publishers/google/models/gemini-2.0-flash"
@@ -2485,13 +2116,10 @@
    "shutdown": "2026-06-01",
    "shutdown_as_published": "June 1, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gemini-3.5-flash-lite",
    "released": "February 25, 2025",
    "source": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "vertex_ai/gemini-2.0-flash-lite",
     "publishers/google/models/gemini-2.0-flash-lite"
@@ -2503,11 +2131,8 @@
    "platform": "claude-api",
    "shutdown": "2026-06-15",
    "date_certainty": "unknown",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "claude-opus-4-8",
    "verified": false,
-   "verified_on": "2026-10-19",
    "also_written_as": [
     "anthropic/claude-opus-4-0"
    ],
@@ -2519,15 +2144,12 @@
    "platform": "claude-api",
    "shutdown": "2026-06-15",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "claude-opus-4-8",
    "announced": "2026-04-14",
    "page_state": "Retired",
    "via": "status table",
    "source": "https://platform.claude.com/docs/en/about-claude/model-deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "anthropic/claude-opus-4-20250514"
    ]
@@ -2538,11 +2160,8 @@
    "platform": "claude-api",
    "shutdown": "2026-06-15",
    "date_certainty": "unknown",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "claude-sonnet-5-5",
    "verified": false,
-   "verified_on": "2026-10-19",
    "also_written_as": [
     "anthropic/claude-sonnet-4-0"
    ],
@@ -2554,15 +2173,12 @@
    "platform": "claude-api",
    "shutdown": "2026-06-15",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "claude-sonnet-5-5",
    "announced": "2026-04-14",
    "page_state": "Retired",
    "via": "status table",
    "source": "https://platform.claude.com/docs/en/about-claude/model-deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "anthropic/claude-sonnet-4-20250514"
    ]
@@ -2574,15 +2190,12 @@
    "shutdown": "2026-06-25",
    "shutdown_as_published": "June 25, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gemini-3-pro-image",
    "replacement_note": "",
    "released": "November 20, 2025",
    "section": "Deprecated models",
    "source": "https://ai.google.dev/gemini-api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "gemini/gemini-3-pro-image-preview",
     "models/gemini-3-pro-image-preview"
@@ -2595,15 +2208,12 @@
    "shutdown": "2026-06-25",
    "shutdown_as_published": "June 25, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gemini-nano-banana-2.1",
    "replacement_note": "",
    "released": "February 26, 2026",
    "section": "Deprecated models",
    "source": "https://ai.google.dev/gemini-api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "gemini/gemini-3.1-flash-image-preview",
     "models/gemini-3.1-flash-image-preview"
@@ -2616,15 +2226,12 @@
    "shutdown": "2026-06-30",
    "shutdown_as_published": "June 30, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gemini-omni-1.2-flash",
    "replacement_note": "gemini-omni-1.2-flash or the GA models on the Gemini Enterprise Agent Platform",
    "released": "April 9, 2025",
    "section": "Deprecated models",
    "source": "https://ai.google.dev/gemini-api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "gemini/veo-2.0-generate-001",
     "models/veo-2.0-generate-001"
@@ -2637,15 +2244,12 @@
    "shutdown": "2026-06-30",
    "shutdown_as_published": "June 30, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gemini-omni-1.2-flash",
    "replacement_note": "gemini-omni-1.2-flash or the GA models on the Gemini Enterprise Agent Platform",
    "released": "September 9, 2025",
    "section": "Deprecated models",
    "source": "https://ai.google.dev/gemini-api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "gemini/veo-3.0-fast-generate-001",
     "models/veo-3.0-fast-generate-001"
@@ -2658,15 +2262,12 @@
    "shutdown": "2026-06-30",
    "shutdown_as_published": "June 30, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gemini-omni-1.2-flash",
    "replacement_note": "gemini-omni-1.2-flash or the GA models on the Gemini Enterprise Agent Platform",
    "released": "September 9, 2025",
    "section": "Deprecated models",
    "source": "https://ai.google.dev/gemini-api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "gemini/veo-3.0-generate-001",
     "models/veo-3.0-generate-001"
@@ -2679,13 +2280,10 @@
    "shutdown": "2026-06-30",
    "shutdown_as_published": "June 30, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gemini-2.5-flash-image",
    "released": "August 17, 2023",
    "source": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "vertex_ai/imagegeneration@002",
     "publishers/google/models/imagegeneration@002"
@@ -2698,13 +2296,10 @@
    "shutdown": "2026-06-30",
    "shutdown_as_published": "June 30, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gemini-2.5-flash-image",
    "released": "",
    "source": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "vertex_ai/imagegeneration@003",
     "publishers/google/models/imagegeneration@003"
@@ -2717,13 +2312,10 @@
    "shutdown": "2026-06-30",
    "shutdown_as_published": "June 30, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gemini-2.5-flash-image",
    "released": "",
    "source": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "vertex_ai/imagegeneration@004",
     "publishers/google/models/imagegeneration@004"
@@ -2736,13 +2328,10 @@
    "shutdown": "2026-06-30",
    "shutdown_as_published": "June 30, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gemini-2.5-flash-image",
    "released": "November 22, 2023",
    "source": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "vertex_ai/imagegeneration@005",
     "publishers/google/models/imagegeneration@005"
@@ -2755,13 +2344,10 @@
    "shutdown": "2026-06-30",
    "shutdown_as_published": "June 30, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gemini-2.5-flash-image",
    "released": "March 27, 2024",
    "source": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "vertex_ai/imagegeneration@006",
     "publishers/google/models/imagegeneration@006"
@@ -2774,13 +2360,10 @@
    "shutdown": "2026-06-30",
    "shutdown_as_published": "June 30, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gemini-2.5-flash-image",
    "released": "December 10, 2024",
    "source": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "vertex_ai/imagen-3.0-generate-001",
     "publishers/google/models/imagen-3.0-generate-001"
@@ -2793,13 +2376,10 @@
    "shutdown": "2026-06-30",
    "shutdown_as_published": "June 30, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gemini-2.5-flash-image",
    "released": "January 29, 2025",
    "source": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "vertex_ai/imagen-3.0-generate-002",
     "publishers/google/models/imagen-3.0-generate-002"
@@ -2812,13 +2392,10 @@
    "shutdown": "2026-06-30",
    "shutdown_as_published": "June 30, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gemini-2.5-flash-image",
    "released": "August 14, 2025",
    "source": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "vertex_ai/imagen-4.0-generate-001",
     "publishers/google/models/imagen-4.0-generate-001"
@@ -2831,13 +2408,10 @@
    "shutdown": "2026-06-30",
    "shutdown_as_published": "June 30, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gemini-2.5-flash-image",
    "released": "August 14, 2025",
    "source": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "vertex_ai/imagen-4.0-ultra-generate-001",
     "publishers/google/models/imagen-4.0-ultra-generate-001"
@@ -2850,13 +2424,10 @@
    "shutdown": "2026-06-30",
    "shutdown_as_published": "June 30, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "veo-3.1-generate-001",
    "released": "May 27, 2025",
    "source": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "vertex_ai/veo-2.0-generate-001",
     "publishers/google/models/veo-2.0-generate-001"
@@ -2869,13 +2440,10 @@
    "shutdown": "2026-06-30",
    "shutdown_as_published": "June 30, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "veo-3.1-fast-generate-001",
    "released": "July 29, 2025",
    "source": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "vertex_ai/veo-3.0-fast-generate-001",
     "publishers/google/models/veo-3.0-fast-generate-001"
@@ -2888,13 +2456,10 @@
    "shutdown": "2026-06-30",
    "shutdown_as_published": "June 30, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "veo-3.1-generate-001",
    "released": "July 29, 2025",
    "source": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "vertex_ai/veo-3.0-generate-001",
     "publishers/google/models/veo-3.0-generate-001"
@@ -2907,15 +2472,12 @@
    "shutdown": "2026-07-23",
    "shutdown_as_published": "Jul 23, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gpt-5.6-terra",
    "announced": "2026-04-22",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/computer-use-preview"
    ]
@@ -2927,15 +2489,12 @@
    "shutdown": "2026-07-23",
    "shutdown_as_published": "Jul 23, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gpt-5.6-terra",
    "announced": "2026-04-22",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/computer-use-preview-2025-03-11"
    ]
@@ -2947,15 +2506,12 @@
    "shutdown": "2026-07-23",
    "shutdown_as_published": "Jul 23, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gpt-5.6-terra",
    "announced": "2026-04-22",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/gpt-4o-mini-search-preview-2025-03-11"
    ]
@@ -2967,15 +2523,12 @@
    "shutdown": "2026-07-23",
    "shutdown_as_published": "Jul 23, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gpt-5.6-terra",
    "announced": "2026-04-22",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/gpt-4o-search-preview-2025-03-11"
    ]
@@ -2987,15 +2540,12 @@
    "shutdown": "2026-07-23",
    "shutdown_as_published": "Jul 23, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gpt-5.6-sol",
    "announced": "2026-04-22",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/gpt-5-chat-latest"
    ]
@@ -3007,15 +2557,12 @@
    "shutdown": "2026-07-23",
    "shutdown_as_published": "Jul 23, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gpt-5.6-sol",
    "announced": "2026-04-22",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/gpt-5-codex"
    ]
@@ -3027,15 +2574,12 @@
    "shutdown": "2026-07-23",
    "shutdown_as_published": "Jul 23, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gpt-5.6-sol",
    "announced": "2026-04-22",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/gpt-5.1-chat-latest"
    ]
@@ -3047,15 +2591,12 @@
    "shutdown": "2026-07-23",
    "shutdown_as_published": "Jul 23, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gpt-5.6-sol",
    "announced": "2026-04-22",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/gpt-5.1-codex"
    ]
@@ -3067,15 +2608,12 @@
    "shutdown": "2026-07-23",
    "shutdown_as_published": "Jul 23, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gpt-5.6-sol",
    "announced": "2026-04-22",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/gpt-5.1-codex-max"
    ]
@@ -3087,15 +2625,12 @@
    "shutdown": "2026-07-23",
    "shutdown_as_published": "Jul 23, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gpt-5.6-terra",
    "announced": "2026-04-22",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/gpt-5.1-codex-mini"
    ]
@@ -3107,15 +2642,12 @@
    "shutdown": "2026-07-23",
    "shutdown_as_published": "Jul 23, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gpt-5.6-sol",
    "announced": "2026-04-22",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/gpt-5.2-codex"
    ]
@@ -3127,15 +2659,12 @@
    "shutdown": "2026-07-23",
    "shutdown_as_published": "Jul 23, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gpt-audio-1.5",
    "announced": "2026-04-22",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/gpt-audio-mini-2025-10-06"
    ]
@@ -3147,15 +2676,12 @@
    "shutdown": "2026-07-23",
    "shutdown_as_published": "Jul 23, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gpt-realtime-2.1-mini",
    "announced": "2026-04-22",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/gpt-realtime-mini-2025-10-06"
    ]
@@ -3167,15 +2693,12 @@
    "shutdown": "2026-07-23",
    "shutdown_as_published": "Jul 23, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gpt-5.6-sol",
    "announced": "2026-04-22",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/o3-deep-research"
    ]
@@ -3187,15 +2710,12 @@
    "shutdown": "2026-07-23",
    "shutdown_as_published": "Jul 23, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gpt-5.6-sol",
    "announced": "2026-04-22",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/o3-deep-research-2025-06-26"
    ]
@@ -3207,15 +2727,12 @@
    "shutdown": "2026-07-23",
    "shutdown_as_published": "Jul 23, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gpt-5.6-sol",
    "announced": "2026-04-22",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/o4-mini-deep-research"
    ]
@@ -3227,15 +2744,12 @@
    "shutdown": "2026-07-23",
    "shutdown_as_published": "Jul 23, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gpt-5.6-sol",
    "announced": "2026-04-22",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/o4-mini-deep-research-2025-06-26"
    ]
@@ -3247,15 +2761,12 @@
    "shutdown": "2026-07-28",
    "shutdown_as_published": "July 28, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gemini-3.8-flash",
    "replacement_note": "",
    "released": "October 7, 2025",
    "section": "Deprecated models",
    "source": "https://ai.google.dev/gemini-api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "gemini/gemini-2.5-computer-use-preview-10-2025",
     "models/gemini-2.5-computer-use-preview-10-2025"
@@ -3267,11 +2778,8 @@
    "platform": "claude-api",
    "shutdown": "2026-08-05",
    "date_certainty": "unknown",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "claude-opus-4-8",
    "verified": false,
-   "verified_on": "2026-10-19",
    "also_written_as": [
     "anthropic/claude-opus-4-1"
    ],
@@ -3283,15 +2791,12 @@
    "platform": "claude-api",
    "shutdown": "2026-08-05",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "claude-opus-4-8",
    "announced": "2026-06-05",
    "page_state": "Retired",
    "via": "status table",
    "source": "https://platform.claude.com/docs/en/about-claude/model-deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "anthropic/claude-opus-4-1-20250805"
    ]
@@ -3303,15 +2808,12 @@
    "shutdown": "2026-08-10",
    "shutdown_as_published": "Aug 10, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gpt-5.6-sol",
    "announced": "2026-05-08",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/gpt-5.2-chat-latest"
    ]
@@ -3323,15 +2825,12 @@
    "shutdown": "2026-08-10",
    "shutdown_as_published": "Aug 10, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gpt-5.6-sol",
    "announced": "2026-05-08",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/gpt-5.3-chat-latest"
    ]
@@ -3343,15 +2842,12 @@
    "shutdown": "2026-08-17",
    "shutdown_as_published": "August 17, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gemini-nano-banana-2.1",
    "replacement_note": "",
    "released": "June 24, 2025",
    "section": "Deprecated models",
    "source": "https://ai.google.dev/gemini-api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "gemini/imagen-4.0-fast-generate-001",
     "models/imagen-4.0-fast-generate-001"
@@ -3364,15 +2860,12 @@
    "shutdown": "2026-08-17",
    "shutdown_as_published": "August 17, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gemini-nano-banana-2.1",
    "replacement_note": "",
    "released": "June 24, 2025",
    "section": "Deprecated models",
    "source": "https://ai.google.dev/gemini-api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "gemini/imagen-4.0-generate-001",
     "models/imagen-4.0-generate-001"
@@ -3385,15 +2878,12 @@
    "shutdown": "2026-08-17",
    "shutdown_as_published": "August 17, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gemini-nano-banana-2.1",
    "replacement_note": "",
    "released": "June 24, 2025",
    "section": "Deprecated models",
    "source": "https://ai.google.dev/gemini-api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "gemini/imagen-4.0-ultra-generate-001",
     "models/imagen-4.0-ultra-generate-001"
@@ -3406,15 +2896,12 @@
    "shutdown": "2026-08-31",
    "shutdown_as_published": "August 31, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gemini-robotics-er-2-preview",
    "replacement_note": "",
    "released": "April 14, 2026",
    "section": "Deprecated models",
    "source": "https://ai.google.dev/gemini-api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "gemini/gemini-robotics-er-1.6-preview",
     "models/gemini-robotics-er-1.6-preview"
@@ -3427,15 +2914,12 @@
    "shutdown": "2026-09-24",
    "shutdown_as_published": "Sep 24, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "No one-to-one replacement",
    "announced": "2026-03-24",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/sora-2"
    ]
@@ -3447,15 +2931,12 @@
    "shutdown": "2026-09-24",
    "shutdown_as_published": "Sep 24, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "No one-to-one replacement",
    "announced": "2026-03-24",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/sora-2-2025-10-06"
    ]
@@ -3467,15 +2948,12 @@
    "shutdown": "2026-09-24",
    "shutdown_as_published": "Sep 24, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "No one-to-one replacement",
    "announced": "2026-03-24",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/sora-2-2025-12-08"
    ]
@@ -3487,15 +2965,12 @@
    "shutdown": "2026-09-24",
    "shutdown_as_published": "Sep 24, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "No one-to-one replacement",
    "announced": "2026-03-24",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/sora-2-pro"
    ]
@@ -3507,15 +2982,12 @@
    "shutdown": "2026-09-24",
    "shutdown_as_published": "Sep 24, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "No one-to-one replacement",
    "announced": "2026-03-24",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/sora-2-pro-2025-10-06"
    ]
@@ -3527,15 +2999,12 @@
    "shutdown": "2026-09-28",
    "shutdown_as_published": "Sep 28, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gpt-5.6-terra",
    "announced": "2025-09-26",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/babbage-002"
    ]
@@ -3547,15 +3016,12 @@
    "shutdown": "2026-09-28",
    "shutdown_as_published": "Sep 28, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gpt-5.6-terra",
    "announced": "2025-09-26",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/davinci-002"
    ]
@@ -3567,15 +3033,12 @@
    "shutdown": "2026-09-28",
    "shutdown_as_published": "Sep 28, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gpt-5.6-terra",
    "announced": "2025-09-26",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/gpt-3.5-turbo-1106"
    ]
@@ -3587,15 +3050,12 @@
    "shutdown": "2026-09-28",
    "shutdown_as_published": "Sep 28, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gpt-5.6-terra",
    "announced": "2025-09-26",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/gpt-3.5-turbo-instruct"
    ]
@@ -3607,15 +3067,12 @@
    "shutdown": "2026-10-01",
    "shutdown_as_published": "Oct 1, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "The most capable cyber model available to you.",
    "announced": "2026-09-11",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/gpt-5.4-cyber"
    ]
@@ -3627,15 +3084,12 @@
    "shutdown": "2026-10-05",
    "shutdown_as_published": "October 5, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "antigravity-preview-09-2026",
    "replacement_note": "",
    "released": "May 19, 2026",
    "section": "Deprecated agents",
    "source": "https://ai.google.dev/gemini-api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "gemini/antigravity-preview-05-2026",
     "models/antigravity-preview-05-2026"
@@ -3647,15 +3101,12 @@
    "platform": "claude-api",
    "shutdown": "2026-10-15",
    "date_certainty": "not_earlier_than",
-   "status": "active",
-   "days_remaining": 0,
    "replacement": "",
    "announced": null,
    "page_state": "Active",
    "via": "status table",
    "source": "https://platform.claude.com/docs/en/about-claude/model-deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "anthropic/claude-haiku-4-5-20251001"
    ]
@@ -3667,13 +3118,10 @@
    "shutdown": "2026-10-20",
    "shutdown_as_published": "October 20, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gemini-3.8-flash or gemini-3.5-flash-lite",
    "released": "June 17, 2025",
    "source": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "vertex_ai/gemini-2.5-flash",
     "publishers/google/models/gemini-2.5-flash"
@@ -3686,13 +3134,10 @@
    "shutdown": "2026-10-20",
    "shutdown_as_published": "October 20, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gemini-3.8-flash or gemini-3.5-flash-lite or Gemma 4",
    "released": "July 22, 2025",
    "source": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "vertex_ai/gemini-2.5-flash-lite",
     "publishers/google/models/gemini-2.5-flash-lite"
@@ -3705,13 +3150,10 @@
    "shutdown": "2026-10-20",
    "shutdown_as_published": "October 20, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gemini-3.8-flash or gemini-3.5-flash",
    "released": "June 17, 2025",
    "source": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "vertex_ai/gemini-2.5-pro",
     "publishers/google/models/gemini-2.5-pro"
@@ -3724,15 +3166,12 @@
    "shutdown": "2026-10-22",
    "shutdown_as_published": "October 22, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gemini-omni-1.2-flash",
    "replacement_note": "",
    "released": "June 30, 2026",
    "section": "Deprecated models",
    "source": "https://ai.google.dev/gemini-api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "gemini/gemini-omni-flash-preview",
     "models/gemini-omni-flash-preview"
@@ -3745,15 +3184,12 @@
    "shutdown": "2026-10-22",
    "shutdown_as_published": "October 22, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gemini-omni-1.2-flash",
    "replacement_note": "",
    "released": "October 15, 2025",
    "section": "Deprecated models",
    "source": "https://ai.google.dev/gemini-api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "gemini/veo-3.1-fast-generate-preview",
     "models/veo-3.1-fast-generate-preview"
@@ -3766,15 +3202,12 @@
    "shutdown": "2026-10-22",
    "shutdown_as_published": "October 22, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gemini-omni-1.2-flash",
    "replacement_note": "",
    "released": "October 15, 2025",
    "section": "Deprecated models",
    "source": "https://ai.google.dev/gemini-api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "gemini/veo-3.1-generate-preview",
     "models/veo-3.1-generate-preview"
@@ -3787,15 +3220,12 @@
    "shutdown": "2026-10-22",
    "shutdown_as_published": "October 22, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gemini-omni-1.2-flash",
    "replacement_note": "",
    "released": "March 31, 2026",
    "section": "Deprecated models",
    "source": "https://ai.google.dev/gemini-api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "gemini/veo-3.1-lite-generate-preview",
     "models/veo-3.1-lite-generate-preview"
@@ -3808,15 +3238,12 @@
    "shutdown": "2026-10-23",
    "shutdown_as_published": "October 23, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "deep-research-preview-04-2026",
    "replacement_note": "",
    "released": "December 11, 2025",
    "section": "Deprecated agents",
    "source": "https://ai.google.dev/gemini-api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "gemini/deep-research-pro-preview-12-2025",
     "models/deep-research-pro-preview-12-2025"
@@ -3829,15 +3256,12 @@
    "shutdown": "2026-10-23",
    "shutdown_as_published": "Oct 23, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gpt-5.6-terra",
    "announced": "2026-04-22",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/ft-o4-mini-2025-04-16"
    ]
@@ -3849,15 +3273,12 @@
    "shutdown": "2026-10-23",
    "shutdown_as_published": "Oct 23, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gpt-5.6-terra",
    "announced": "2026-04-22",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/gpt-3.5-turbo"
    ]
@@ -3869,15 +3290,12 @@
    "shutdown": "2026-10-23",
    "shutdown_as_published": "Oct 23, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gpt-5.6-terra",
    "announced": "2026-04-22",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/gpt-3.5-turbo-0125"
    ]
@@ -3889,15 +3307,12 @@
    "shutdown": "2026-10-23",
    "shutdown_as_published": "Oct 23, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gpt-5.6-terra",
    "announced": "2026-04-22",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/gpt-3.5-turbo-completions"
    ]
@@ -3909,15 +3324,12 @@
    "shutdown": "2026-10-23",
    "shutdown_as_published": "Oct 23, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gpt-5.6-sol",
    "announced": "2026-04-22",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/gpt-4"
    ]
@@ -3929,15 +3341,12 @@
    "shutdown": "2026-10-23",
    "shutdown_as_published": "Oct 23, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gpt-5.6-sol",
    "announced": "2026-04-22",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/gpt-4-0613"
    ]
@@ -3949,15 +3358,12 @@
    "shutdown": "2026-10-23",
    "shutdown_as_published": "Oct 23, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gpt-5.6-sol",
    "announced": "2026-04-22",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/gpt-4-0613-completions"
    ]
@@ -3969,15 +3375,12 @@
    "shutdown": "2026-10-23",
    "shutdown_as_published": "Oct 23, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gpt-5.6-sol",
    "announced": "2026-04-22",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/gpt-4-1106-preview"
    ]
@@ -3989,15 +3392,12 @@
    "shutdown": "2026-10-23",
    "shutdown_as_published": "Oct 23, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gpt-5.6-sol",
    "announced": "2026-04-22",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/gpt-4-completions"
    ]
@@ -4009,15 +3409,12 @@
    "shutdown": "2026-10-23",
    "shutdown_as_published": "Oct 23, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gpt-5.6-sol",
    "announced": "2026-04-22",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/gpt-4-turbo"
    ]
@@ -4029,15 +3426,12 @@
    "shutdown": "2026-10-23",
    "shutdown_as_published": "Oct 23, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gpt-5.6-sol",
    "announced": "2026-04-22",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/gpt-4-turbo-2024-04-09"
    ]
@@ -4049,15 +3443,12 @@
    "shutdown": "2026-10-23",
    "shutdown_as_published": "Oct 23, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gpt-5.6-sol",
    "announced": "2026-04-22",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/gpt-4-turbo-completions"
    ]
@@ -4069,15 +3460,12 @@
    "shutdown": "2026-10-23",
    "shutdown_as_published": "Oct 23, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gpt-5.6-luna",
    "announced": "2026-04-22",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/gpt-4.1-nano"
    ]
@@ -4089,15 +3477,12 @@
    "shutdown": "2026-10-23",
    "shutdown_as_published": "Oct 23, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gpt-5.6-luna",
    "announced": "2026-04-22",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/gpt-4.1-nano-2025-04-14"
    ]
@@ -4109,15 +3494,12 @@
    "shutdown": "2026-10-23",
    "shutdown_as_published": "Oct 23, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gpt-5.6-sol",
    "announced": "2026-04-22",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/gpt-4o-2024-05-13"
    ]
@@ -4129,15 +3511,12 @@
    "shutdown": "2026-10-23",
    "shutdown_as_published": "Oct 23, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gpt-image-2.5-sunburst or gpt-image-2.5-flare",
    "announced": "2026-04-22",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/gpt-image-1"
    ]
@@ -4149,15 +3528,12 @@
    "shutdown": "2026-10-23",
    "shutdown_as_published": "Oct 23, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gpt-5.6-sol",
    "announced": "2026-04-22",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/o1"
    ]
@@ -4169,15 +3545,12 @@
    "shutdown": "2026-10-23",
    "shutdown_as_published": "Oct 23, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gpt-5.6-sol",
    "announced": "2026-04-22",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/o1-2024-12-17"
    ]
@@ -4189,15 +3562,12 @@
    "shutdown": "2026-10-23",
    "shutdown_as_published": "Oct 23, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gpt-5.6-sol (reasoning.mode: pro)",
    "announced": "2026-04-22",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/o1-pro"
    ]
@@ -4209,15 +3579,12 @@
    "shutdown": "2026-10-23",
    "shutdown_as_published": "Oct 23, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gpt-5.6-sol (reasoning.mode: pro)",
    "announced": "2026-04-22",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/o1-pro-2025-03-19"
    ]
@@ -4229,15 +3596,12 @@
    "shutdown": "2026-10-23",
    "shutdown_as_published": "Oct 23, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gpt-5.6-sol",
    "announced": "2026-04-22",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/o3-mini"
    ]
@@ -4249,15 +3613,12 @@
    "shutdown": "2026-10-23",
    "shutdown_as_published": "Oct 23, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gpt-5.6-sol",
    "announced": "2026-04-22",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/o3-mini-2025-01-31"
    ]
@@ -4269,15 +3630,12 @@
    "shutdown": "2026-10-23",
    "shutdown_as_published": "Oct 23, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gpt-5.6-terra",
    "announced": "2026-04-22",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/o4-mini"
    ]
@@ -4289,15 +3647,12 @@
    "shutdown": "2026-10-23",
    "shutdown_as_published": "Oct 23, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gpt-5.6-terra",
    "announced": "2026-04-22",
    "page_status": "Shutdown",
    "section": "past",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/o4-mini-2025-04-16"
    ]
@@ -4309,15 +3664,12 @@
    "shutdown": "2026-11-06",
    "shutdown_as_published": "November 6, 2026",
    "date_certainty": "firm",
-   "status": "retired",
-   "days_remaining": 0,
    "replacement": "gemini-embedding-2",
    "replacement_note": "gemini-embedding-2 (effective November 6, 2026, API requests to gemini-embedding-2-preview route to gemini-embedding-2)",
    "released": "March 10, 2026",
    "section": "Deprecated models",
    "source": "https://ai.google.dev/gemini-api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "gemini/gemini-embedding-2-preview",
     "models/gemini-embedding-2-preview"
@@ -4329,15 +3681,12 @@
    "platform": "claude-api",
    "shutdown": "2026-11-24",
    "date_certainty": "not_earlier_than",
-   "status": "active",
-   "days_remaining": 2,
    "replacement": "",
    "announced": null,
    "page_state": "Active",
    "via": "status table",
    "source": "https://platform.claude.com/docs/en/about-claude/model-deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "anthropic/claude-opus-4-5-20251101"
    ]
@@ -4348,15 +3697,12 @@
    "platform": "claude-api",
    "shutdown": "2026-11-30",
    "date_certainty": "announced",
-   "status": "scheduled",
-   "days_remaining": 8,
    "replacement": "claude-sonnet-5-5",
    "announced": "2026-09-30",
    "page_state": "Deprecated",
    "via": "alias of claude-sonnet-4-5-20250929, stated in the page's prose",
    "source": "https://platform.claude.com/docs/en/about-claude/model-deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "anthropic/claude-sonnet-4-5"
    ]
@@ -4367,15 +3713,12 @@
    "platform": "claude-api",
    "shutdown": "2026-11-30",
    "date_certainty": "announced",
-   "status": "scheduled",
-   "days_remaining": 8,
    "replacement": "claude-sonnet-5-5",
    "announced": "2026-09-30",
    "page_state": "Deprecated",
    "via": "status table",
    "source": "https://platform.claude.com/docs/en/about-claude/model-deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "anthropic/claude-sonnet-4-5-20250929"
    ]
@@ -4387,15 +3730,12 @@
    "shutdown": "2026-12-01",
    "shutdown_as_published": "December 1, 2026",
    "date_certainty": "not_earlier_than",
-   "status": "active",
-   "days_remaining": 0,
    "replacement": "gemini-3.5-flash-lite",
    "replacement_note": "gemini-3.5-flash-lite (gemini-2.5-flash is no longer available in Google AI Studio; effective December 1, 2026, API requests to gemini-2.5-flash will automatically route to gemini-3.5-flash-lite)",
    "released": "June 17, 2025",
    "section": "Gemini 2.5 Flash models",
    "source": "https://ai.google.dev/gemini-api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "gemini/gemini-2.5-flash",
     "models/gemini-2.5-flash"
@@ -4408,15 +3748,12 @@
    "shutdown": "2026-12-01",
    "shutdown_as_published": "December 1, 2026",
    "date_certainty": "not_earlier_than",
-   "status": "active",
-   "days_remaining": 0,
    "replacement": "gemini-3.8-flash",
    "replacement_note": "gemini-3.8-flash (gemini-2.5-pro is no longer available in Google AI Studio; effective December 1, 2026, API requests to gemini-2.5-pro will automatically route to gemini-3.8-flash)",
    "released": "June 17, 2025",
    "section": "Gemini 2.5 Pro models",
    "source": "https://ai.google.dev/gemini-api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "gemini/gemini-2.5-pro",
     "models/gemini-2.5-pro"
@@ -4429,15 +3766,12 @@
    "shutdown": "2026-12-01",
    "shutdown_as_published": "Dec 1, 2026",
    "date_certainty": "firm",
-   "status": "scheduled",
-   "days_remaining": 9,
    "replacement": "gpt-image-2.6-sunburst or gpt-image-2.6-flare",
    "announced": "2026-06-02",
    "page_status": "Deprecated",
    "section": "upcoming",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/chatgpt-image-latest"
    ]
@@ -4449,15 +3783,12 @@
    "shutdown": "2026-12-01",
    "shutdown_as_published": "Dec 1, 2026",
    "date_certainty": "firm",
-   "status": "scheduled",
-   "days_remaining": 9,
    "replacement": "gpt-image-2.6-sunburst or gpt-image-2.6-flare",
    "announced": "2026-06-02",
    "page_status": "Deprecated",
    "section": "upcoming",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/gpt-image-1-mini"
    ]
@@ -4469,15 +3800,12 @@
    "shutdown": "2026-12-01",
    "shutdown_as_published": "Dec 1, 2026",
    "date_certainty": "firm",
-   "status": "scheduled",
-   "days_remaining": 9,
    "replacement": "gpt-image-2.6-sunburst or gpt-image-2.6-flare",
    "announced": "2026-06-02",
    "page_status": "Deprecated",
    "section": "upcoming",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/gpt-image-1.5"
    ]
@@ -4489,15 +3817,12 @@
    "shutdown": "2026-12-01",
    "shutdown_as_published": "Dec 1, 2026",
    "date_certainty": "firm",
-   "status": "scheduled",
-   "days_remaining": 9,
    "replacement": "gpt-image-2.6-sunburst or gpt-image-2.6-flare",
    "announced": "2026-06-02",
    "page_status": "Deprecated",
    "section": "upcoming",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/gpt-image-1.5-2025-12-16"
    ]
@@ -4509,15 +3834,12 @@
    "shutdown": "2026-12-03",
    "shutdown_as_published": "December 3, 2026",
    "date_certainty": "not_earlier_than",
-   "status": "active",
-   "days_remaining": 0,
    "replacement": "gemini-omni-1.2-flash",
    "replacement_note": "gemini-omni-1.2-flash (Effective December 3, 2026, the endpoint is",
    "released": "August 27, 2026",
    "section": "Gemini Omni Flash models",
    "source": "https://ai.google.dev/gemini-api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "gemini/gemini-omni-1.1-flash",
     "models/gemini-omni-1.1-flash"
@@ -4530,15 +3852,12 @@
    "shutdown": "2026-12-11",
    "shutdown_as_published": "Dec 11, 2026",
    "date_certainty": "firm",
-   "status": "scheduled",
-   "days_remaining": 19,
    "replacement": "gpt-6.1-sol",
    "announced": "2026-06-11",
    "page_status": "Deprecated",
    "section": "upcoming",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/gpt-5"
    ]
@@ -4550,15 +3869,12 @@
    "shutdown": "2026-12-11",
    "shutdown_as_published": "Dec 11, 2026",
    "date_certainty": "firm",
-   "status": "scheduled",
-   "days_remaining": 19,
    "replacement": "gpt-6.1-sol",
    "announced": "2026-06-11",
    "page_status": "Deprecated",
    "section": "upcoming",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/gpt-5-2025-08-07"
    ]
@@ -4570,15 +3886,12 @@
    "shutdown": "2026-12-11",
    "shutdown_as_published": "Dec 11, 2026",
    "date_certainty": "firm",
-   "status": "scheduled",
-   "days_remaining": 19,
    "replacement": "gpt-6.1-terra",
    "announced": "2026-06-11",
    "page_status": "Deprecated",
    "section": "upcoming",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/gpt-5-mini"
    ]
@@ -4590,15 +3903,12 @@
    "shutdown": "2026-12-11",
    "shutdown_as_published": "Dec 11, 2026",
    "date_certainty": "firm",
-   "status": "scheduled",
-   "days_remaining": 19,
    "replacement": "gpt-6.1-terra",
    "announced": "2026-06-11",
    "page_status": "Deprecated",
    "section": "upcoming",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/gpt-5-mini-2025-08-07"
    ]
@@ -4610,15 +3920,12 @@
    "shutdown": "2026-12-11",
    "shutdown_as_published": "Dec 11, 2026",
    "date_certainty": "firm",
-   "status": "scheduled",
-   "days_remaining": 19,
    "replacement": "gpt-6-luna",
    "announced": "2026-06-11",
    "page_status": "Deprecated",
    "section": "upcoming",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/gpt-5-nano"
    ]
@@ -4630,15 +3937,12 @@
    "shutdown": "2026-12-11",
    "shutdown_as_published": "Dec 11, 2026",
    "date_certainty": "firm",
-   "status": "scheduled",
-   "days_remaining": 19,
    "replacement": "gpt-6-luna",
    "announced": "2026-06-11",
    "page_status": "Deprecated",
    "section": "upcoming",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/gpt-5-nano-2025-08-07"
    ]
@@ -4650,15 +3954,12 @@
    "shutdown": "2026-12-11",
    "shutdown_as_published": "Dec 11, 2026",
    "date_certainty": "firm",
-   "status": "scheduled",
-   "days_remaining": 19,
    "replacement": "gpt-6.1-sol (reasoning.mode: pro) in the Responses API",
    "announced": "2026-06-11",
    "page_status": "Deprecated",
    "section": "upcoming",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/gpt-5-pro"
    ]
@@ -4670,15 +3971,12 @@
    "shutdown": "2026-12-11",
    "shutdown_as_published": "Dec 11, 2026",
    "date_certainty": "firm",
-   "status": "scheduled",
-   "days_remaining": 19,
    "replacement": "gpt-6.1-sol (reasoning.mode: pro) in the Responses API",
    "announced": "2026-06-11",
    "page_status": "Deprecated",
    "section": "upcoming",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/gpt-5-pro-2025-10-06"
    ]
@@ -4690,15 +3988,12 @@
    "shutdown": "2026-12-11",
    "shutdown_as_published": "Dec 11, 2026",
    "date_certainty": "firm",
-   "status": "scheduled",
-   "days_remaining": 19,
    "replacement": "gpt-6.1-sol",
    "announced": "2026-06-11",
    "page_status": "Deprecated",
    "section": "upcoming",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/o3"
    ]
@@ -4710,15 +4005,12 @@
    "shutdown": "2026-12-11",
    "shutdown_as_published": "Dec 11, 2026",
    "date_certainty": "firm",
-   "status": "scheduled",
-   "days_remaining": 19,
    "replacement": "gpt-6.1-sol",
    "announced": "2026-06-11",
    "page_status": "Deprecated",
    "section": "upcoming",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/o3-2025-04-16"
    ]
@@ -4730,15 +4022,12 @@
    "shutdown": "2026-12-11",
    "shutdown_as_published": "Dec 11, 2026",
    "date_certainty": "firm",
-   "status": "scheduled",
-   "days_remaining": 19,
    "replacement": "gpt-6.1-sol (reasoning.mode: pro) in the Responses API",
    "announced": "2026-06-11",
    "page_status": "Deprecated",
    "section": "upcoming",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/o3-pro"
    ]
@@ -4750,15 +4039,12 @@
    "shutdown": "2026-12-11",
    "shutdown_as_published": "Dec 11, 2026",
    "date_certainty": "firm",
-   "status": "scheduled",
-   "days_remaining": 19,
    "replacement": "gpt-6.1-sol (reasoning.mode: pro) in the Responses API",
    "announced": "2026-06-11",
    "page_status": "Deprecated",
    "section": "upcoming",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/o3-pro-2025-06-10"
    ]
@@ -4770,13 +4056,10 @@
    "shutdown": "2026-12-13",
    "shutdown_as_published": "December 13, 2026",
    "date_certainty": "firm",
-   "status": "scheduled",
-   "days_remaining": 21,
    "replacement": "gemini-3.8-live",
    "released": "December 12, 2025",
    "source": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "vertex_ai/gemini-live-2.5-flash-native-audio",
     "publishers/google/models/gemini-live-2.5-flash-native-audio"
@@ -4789,15 +4072,12 @@
    "shutdown": "2026-12-18",
    "shutdown_as_published": "December 18, 2026",
    "date_certainty": "not_earlier_than",
-   "status": "active",
-   "days_remaining": 0,
    "replacement": "gemini-3.8-flash-tts or gemini-3.8-flash-lite-tts",
    "replacement_note": "",
    "released": "May 20, 2025",
    "section": "Preview models",
    "source": "https://ai.google.dev/gemini-api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "gemini/gemini-2.5-flash-preview-tts",
     "models/gemini-2.5-flash-preview-tts"
@@ -4810,15 +4090,12 @@
    "shutdown": "2026-12-18",
    "shutdown_as_published": "December 18, 2026",
    "date_certainty": "not_earlier_than",
-   "status": "active",
-   "days_remaining": 0,
    "replacement": "gemini-3.8-flash-tts or gemini-3.8-flash-lite-tts",
    "replacement_note": "",
    "released": "May 20, 2025",
    "section": "Preview models",
    "source": "https://ai.google.dev/gemini-api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "gemini/gemini-2.5-pro-preview-tts",
     "models/gemini-2.5-pro-preview-tts"
@@ -4831,15 +4108,12 @@
    "shutdown": "2026-12-18",
    "shutdown_as_published": "December 18, 2026",
    "date_certainty": "not_earlier_than",
-   "status": "active",
-   "days_remaining": 0,
    "replacement": "gemini-3.8-flash-tts or gemini-3.8-flash-lite-tts",
    "replacement_note": "",
    "released": "February 26, 2026",
    "section": "Preview models",
    "source": "https://ai.google.dev/gemini-api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "gemini/gemini-3.1-flash-tts-preview",
     "models/gemini-3.1-flash-tts-preview"
@@ -4852,15 +4126,12 @@
    "shutdown": "2027-01-06",
    "shutdown_as_published": "Jan 6, 2027",
    "date_certainty": "firm",
-   "status": "scheduled",
-   "days_remaining": 45,
    "replacement": "gpt-realtime-2.1-mini",
    "announced": "2026-10-01",
    "page_status": "Deprecated",
    "section": "upcoming",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/gpt-4o-mini-tts"
    ]
@@ -4872,15 +4143,12 @@
    "shutdown": "2027-01-06",
    "shutdown_as_published": "Jan 6, 2027",
    "date_certainty": "firm",
-   "status": "scheduled",
-   "days_remaining": 45,
    "replacement": "gpt-realtime-2.1-mini",
    "announced": "2026-10-01",
    "page_status": "Deprecated",
    "section": "upcoming",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/gpt-4o-mini-tts-2025-03-20"
    ]
@@ -4892,15 +4160,12 @@
    "shutdown": "2027-01-06",
    "shutdown_as_published": "Jan 6, 2027",
    "date_certainty": "firm",
-   "status": "scheduled",
-   "days_remaining": 45,
    "replacement": "gpt-realtime-2.1-mini",
    "announced": "2026-10-01",
    "page_status": "Deprecated",
    "section": "upcoming",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/gpt-4o-mini-tts-2025-12-15"
    ]
@@ -4912,15 +4177,12 @@
    "shutdown": "2027-01-06",
    "shutdown_as_published": "Jan 6, 2027",
    "date_certainty": "firm",
-   "status": "scheduled",
-   "days_remaining": 45,
    "replacement": "gpt-realtime-2.1-mini",
    "announced": "2026-10-01",
    "page_status": "Deprecated",
    "section": "upcoming",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/tts-1"
    ]
@@ -4932,15 +4194,12 @@
    "shutdown": "2027-01-06",
    "shutdown_as_published": "Jan 6, 2027",
    "date_certainty": "firm",
-   "status": "scheduled",
-   "days_remaining": 45,
    "replacement": "gpt-realtime-2.1-mini",
    "announced": "2026-10-01",
    "page_status": "Deprecated",
    "section": "upcoming",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/tts-1-hd"
    ]
@@ -4952,15 +4211,12 @@
    "shutdown": "2027-01-14",
    "shutdown_as_published": "Jan 14, 2027",
    "date_certainty": "firm",
-   "status": "scheduled",
-   "days_remaining": 53,
    "replacement": "gpt-6-luna",
    "announced": "2026-10-14",
    "page_status": "Deprecated",
    "section": "upcoming",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/gpt-4.1-2025-04-14"
    ]
@@ -4972,15 +4228,12 @@
    "shutdown": "2027-01-14",
    "shutdown_as_published": "Jan 14, 2027",
    "date_certainty": "firm",
-   "status": "scheduled",
-   "days_remaining": 53,
    "replacement": "gpt-6-luna",
    "announced": "2026-10-14",
    "page_status": "Deprecated",
    "section": "upcoming",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/gpt-4.1-mini-2025-04-14"
    ]
@@ -4992,15 +4245,12 @@
    "shutdown": "2027-01-14",
    "shutdown_as_published": "Jan 14, 2027",
    "date_certainty": "firm",
-   "status": "scheduled",
-   "days_remaining": 53,
    "replacement": "gpt-6-luna",
    "announced": "2026-10-14",
    "page_status": "Deprecated",
    "section": "upcoming",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/gpt-4o-2024-08-06"
    ]
@@ -5012,15 +4262,12 @@
    "shutdown": "2027-01-14",
    "shutdown_as_published": "Jan 14, 2027",
    "date_certainty": "firm",
-   "status": "scheduled",
-   "days_remaining": 53,
    "replacement": "gpt-6-luna",
    "announced": "2026-10-14",
    "page_status": "Deprecated",
    "section": "upcoming",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/gpt-4o-2024-11-20"
    ]
@@ -5032,15 +4279,12 @@
    "shutdown": "2027-01-14",
    "shutdown_as_published": "Jan 14, 2027",
    "date_certainty": "firm",
-   "status": "scheduled",
-   "days_remaining": 53,
    "replacement": "gpt-6-luna",
    "announced": "2026-10-14",
    "page_status": "Deprecated",
    "section": "upcoming",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/gpt-4o-mini-2024-07-18"
    ]
@@ -5052,15 +4296,12 @@
    "shutdown": "2027-01-20",
    "shutdown_as_published": "Jan 20, 2027",
    "date_certainty": "firm",
-   "status": "scheduled",
-   "days_remaining": 59,
    "replacement": "gpt-audio-1.5",
    "announced": "2026-07-20",
    "page_status": "Deprecated",
    "section": "upcoming",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/gpt-4o-audio"
    ]
@@ -5072,15 +4313,12 @@
    "shutdown": "2027-01-20",
    "shutdown_as_published": "Jan 20, 2027",
    "date_certainty": "firm",
-   "status": "scheduled",
-   "days_remaining": 59,
    "replacement": "gpt-audio-1.5",
    "announced": "2026-07-20",
    "page_status": "Deprecated",
    "section": "upcoming",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/gpt-4o-mini-audio"
    ]
@@ -5092,15 +4330,12 @@
    "shutdown": "2027-01-20",
    "shutdown_as_published": "Jan 20, 2027",
    "date_certainty": "firm",
-   "status": "scheduled",
-   "days_remaining": 59,
    "replacement": "gpt-realtime-2.1-mini",
    "announced": "2026-07-20",
    "page_status": "Deprecated",
    "section": "upcoming",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/gpt-4o-mini-realtime"
    ]
@@ -5112,15 +4347,12 @@
    "shutdown": "2027-01-20",
    "shutdown_as_published": "Jan 20, 2027",
    "date_certainty": "firm",
-   "status": "scheduled",
-   "days_remaining": 59,
    "replacement": "gpt-4o-mini-transcribe-2025-12-15",
    "announced": "2026-07-20",
    "page_status": "Deprecated",
    "section": "upcoming",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/gpt-4o-mini-transcribe-2025-03-20"
    ]
@@ -5132,15 +4364,12 @@
    "shutdown": "2027-01-20",
    "shutdown_as_published": "Jan 20, 2027",
    "date_certainty": "firm",
-   "status": "scheduled",
-   "days_remaining": 59,
    "replacement": "gpt-realtime-2.1",
    "announced": "2026-07-20",
    "page_status": "Deprecated",
    "section": "upcoming",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/gpt-4o-realtime"
    ]
@@ -5152,15 +4381,12 @@
    "shutdown": "2027-01-20",
    "shutdown_as_published": "Jan 20, 2027",
    "date_certainty": "firm",
-   "status": "scheduled",
-   "days_remaining": 59,
    "replacement": "gpt-audio-1.5",
    "announced": "2026-07-20",
    "page_status": "Deprecated",
    "section": "upcoming",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/gpt-audio"
    ]
@@ -5172,15 +4398,12 @@
    "shutdown": "2027-01-20",
    "shutdown_as_published": "Jan 20, 2027",
    "date_certainty": "firm",
-   "status": "scheduled",
-   "days_remaining": 59,
    "replacement": "gpt-audio-1.5",
    "announced": "2026-07-20",
    "page_status": "Deprecated",
    "section": "upcoming",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/gpt-audio-2025-08-28"
    ]
@@ -5192,15 +4415,12 @@
    "shutdown": "2027-01-20",
    "shutdown_as_published": "Jan 20, 2027",
    "date_certainty": "firm",
-   "status": "scheduled",
-   "days_remaining": 59,
    "replacement": "gpt-audio-1.5",
    "announced": "2026-07-20",
    "page_status": "Deprecated",
    "section": "upcoming",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/gpt-audio-mini"
    ]
@@ -5212,15 +4432,12 @@
    "shutdown": "2027-01-20",
    "shutdown_as_published": "Jan 20, 2027",
    "date_certainty": "firm",
-   "status": "scheduled",
-   "days_remaining": 59,
    "replacement": "gpt-audio-1.5",
    "announced": "2026-07-20",
    "page_status": "Deprecated",
    "section": "upcoming",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/gpt-audio-mini-2025-12-15"
    ]
@@ -5232,15 +4449,12 @@
    "shutdown": "2027-01-20",
    "shutdown_as_published": "Jan 20, 2027",
    "date_certainty": "firm",
-   "status": "scheduled",
-   "days_remaining": 59,
    "replacement": "gpt-realtime-2.1",
    "announced": "2026-07-20",
    "page_status": "Deprecated",
    "section": "upcoming",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/gpt-realtime"
    ]
@@ -5252,15 +4466,12 @@
    "shutdown": "2027-01-20",
    "shutdown_as_published": "Jan 20, 2027",
    "date_certainty": "firm",
-   "status": "scheduled",
-   "days_remaining": 59,
    "replacement": "gpt-realtime-2.1",
    "announced": "2026-07-20",
    "page_status": "Deprecated",
    "section": "upcoming",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/gpt-realtime-2025-08-28"
    ]
@@ -5272,15 +4483,12 @@
    "shutdown": "2027-01-20",
    "shutdown_as_published": "Jan 20, 2027",
    "date_certainty": "firm",
-   "status": "scheduled",
-   "days_remaining": 59,
    "replacement": "gpt-realtime-2.1-mini",
    "announced": "2026-07-20",
    "page_status": "Deprecated",
    "section": "upcoming",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/gpt-realtime-mini"
    ]
@@ -5292,15 +4500,12 @@
    "shutdown": "2027-01-20",
    "shutdown_as_published": "Jan 20, 2027",
    "date_certainty": "firm",
-   "status": "scheduled",
-   "days_remaining": 59,
    "replacement": "gpt-realtime-2.1-mini",
    "announced": "2026-07-20",
    "page_status": "Deprecated",
    "section": "upcoming",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/gpt-realtime-mini-2025-12-15"
    ]
@@ -5312,13 +4517,10 @@
    "shutdown": "2027-01-28",
    "shutdown_as_published": "January 28, 2027",
    "date_certainty": "firm",
-   "status": "scheduled",
-   "days_remaining": 67,
    "replacement": "gemini-4-hydrogen",
    "released": "July 21, 2026",
    "source": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "vertex_ai/gemini-3.6-flash",
     "publishers/google/models/gemini-3.6-flash"
@@ -5331,13 +4533,10 @@
    "shutdown": "2027-01-28",
    "shutdown_as_published": "January 28, 2027",
    "date_certainty": "firm",
-   "status": "scheduled",
-   "days_remaining": 67,
    "replacement": "gemini-4-hydrogen",
    "released": "August 13, 2026",
    "source": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "vertex_ai/gemini-3.7-flash",
     "publishers/google/models/gemini-3.7-flash"
@@ -5350,15 +4549,12 @@
    "shutdown": "2027-02-01",
    "shutdown_as_published": "Feb 1, 2027",
    "date_certainty": "firm",
-   "status": "scheduled",
-   "days_remaining": 71,
    "replacement": "The most capable cyber model available to you.",
    "announced": "2026-11-05",
    "page_status": "Deprecated",
    "section": "upcoming",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/gpt-5.5-cyber-preview"
    ]
@@ -5369,15 +4565,12 @@
    "platform": "claude-api",
    "shutdown": "2027-02-05",
    "date_certainty": "not_earlier_than",
-   "status": "active",
-   "days_remaining": 75,
    "replacement": "",
    "announced": null,
    "page_state": "Active",
    "via": "status table",
    "source": "https://platform.claude.com/docs/en/about-claude/model-deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "anthropic/claude-opus-4-6"
    ]
@@ -5389,15 +4582,12 @@
    "shutdown": "2027-02-10",
    "shutdown_as_published": "Feb 10, 2027",
    "date_certainty": "firm",
-   "status": "scheduled",
-   "days_remaining": 80,
    "replacement": "gpt-image-2.6-sunburst or gpt-image-2.6-flare",
    "announced": "2026-11-10",
    "page_status": "Deprecated",
    "section": "upcoming",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/gpt-image-2"
    ]
@@ -5409,15 +4599,12 @@
    "shutdown": "2027-02-10",
    "shutdown_as_published": "Feb 10, 2027",
    "date_certainty": "firm",
-   "status": "scheduled",
-   "days_remaining": 80,
    "replacement": "gpt-image-2.6-sunburst or gpt-image-2.6-flare",
    "announced": "2026-11-10",
    "page_status": "Deprecated",
    "section": "upcoming",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/gpt-image-2-2026-04-21"
    ]
@@ -5428,15 +4615,12 @@
    "platform": "claude-api",
    "shutdown": "2027-02-17",
    "date_certainty": "not_earlier_than",
-   "status": "active",
-   "days_remaining": 87,
    "replacement": "",
    "announced": null,
    "page_state": "Active",
    "via": "status table",
    "source": "https://platform.claude.com/docs/en/about-claude/model-deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "anthropic/claude-sonnet-4-6"
    ]
@@ -5448,15 +4632,12 @@
    "shutdown": "2027-02-26",
    "shutdown_as_published": "Feb 26, 2027",
    "date_certainty": "firm",
-   "status": "scheduled",
-   "days_remaining": 96,
    "replacement": "gpt-live-transcribe or gpt-transcribe",
    "announced": "2026-08-26",
    "page_status": "Deprecated",
    "section": "upcoming",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/gpt-4o-mini-transcribe"
    ]
@@ -5468,15 +4649,12 @@
    "shutdown": "2027-02-26",
    "shutdown_as_published": "Feb 26, 2027",
    "date_certainty": "firm",
-   "status": "scheduled",
-   "days_remaining": 96,
    "replacement": "gpt-live-transcribe or gpt-transcribe",
    "announced": "2026-08-26",
    "page_status": "Deprecated",
    "section": "upcoming",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/gpt-4o-mini-transcribe-2025-12-15"
    ]
@@ -5488,15 +4666,12 @@
    "shutdown": "2027-02-26",
    "shutdown_as_published": "Feb 26, 2027",
    "date_certainty": "firm",
-   "status": "scheduled",
-   "days_remaining": 96,
    "replacement": "gpt-live-transcribe or gpt-transcribe",
    "announced": "2026-08-26",
    "page_status": "Deprecated",
    "section": "upcoming",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/gpt-4o-transcribe"
    ]
@@ -5508,15 +4683,12 @@
    "shutdown": "2027-02-26",
    "shutdown_as_published": "Feb 26, 2027",
    "date_certainty": "firm",
-   "status": "scheduled",
-   "days_remaining": 96,
    "replacement": "gpt-live-transcribe or gpt-transcribe",
    "announced": "2026-08-26",
    "page_status": "Deprecated",
    "section": "upcoming",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/gpt-4o-transcribe-diarize"
    ]
@@ -5528,15 +4700,12 @@
    "shutdown": "2027-02-26",
    "shutdown_as_published": "Feb 26, 2027",
    "date_certainty": "firm",
-   "status": "scheduled",
-   "days_remaining": 96,
    "replacement": "gpt-live-transcribe or gpt-transcribe",
    "announced": "2026-08-26",
    "page_status": "Deprecated",
    "section": "upcoming",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/whisper-1"
    ]
@@ -5548,15 +4717,12 @@
    "shutdown": "2027-03-15",
    "shutdown_as_published": "March 15, 2027",
    "date_certainty": "not_earlier_than",
-   "status": "active",
-   "days_remaining": 0,
    "replacement": "gemini-3.1-flash-lite-image",
    "replacement_note": "",
    "released": "October 2, 2025",
    "section": "Nano Banana models",
    "source": "https://ai.google.dev/gemini-api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "gemini/gemini-2.5-flash-image",
     "models/gemini-2.5-flash-image"
@@ -5569,13 +4735,10 @@
    "shutdown": "2027-03-15",
    "shutdown_as_published": "March 15, 2027",
    "date_certainty": "firm",
-   "status": "scheduled",
-   "days_remaining": 113,
    "replacement": "gemini-3.1-flash-lite-image",
    "released": "October 2, 2025",
    "source": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "vertex_ai/gemini-2.5-flash-image",
     "publishers/google/models/gemini-2.5-flash-image"
@@ -5588,15 +4751,12 @@
    "shutdown": "2027-03-31",
    "shutdown_as_published": "March 31, 2027",
    "date_certainty": "not_earlier_than",
-   "status": "active",
-   "days_remaining": 0,
    "replacement": "gemini-3.8-live",
    "replacement_note": "",
    "released": "December 12, 2025",
    "section": "Preview models",
    "source": "https://ai.google.dev/gemini-api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "gemini/gemini-2.5-flash-native-audio-preview-12-2025",
     "models/gemini-2.5-flash-native-audio-preview-12-2025"
@@ -5609,15 +4769,12 @@
    "shutdown": "2027-04-01",
    "shutdown_as_published": "Apr 1, 2027",
    "date_certainty": "firm",
-   "status": "scheduled",
-   "days_remaining": 130,
    "replacement": "gpt-6-sol",
    "announced": "2026-10-01",
    "page_status": "Deprecated",
    "section": "upcoming",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/gpt-5.1"
    ]
@@ -5629,15 +4786,12 @@
    "shutdown": "2027-04-01",
    "shutdown_as_published": "Apr 1, 2027",
    "date_certainty": "firm",
-   "status": "scheduled",
-   "days_remaining": 130,
    "replacement": "gpt-6-sol",
    "announced": "2026-10-01",
    "page_status": "Deprecated",
    "section": "upcoming",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/gpt-5.1-2025-11-13"
    ]
@@ -5649,15 +4803,12 @@
    "shutdown": "2027-04-01",
    "shutdown_as_published": "Apr 1, 2027",
    "date_certainty": "firm",
-   "status": "scheduled",
-   "days_remaining": 130,
    "replacement": "gpt-6-sol",
    "announced": "2026-10-01",
    "page_status": "Deprecated",
    "section": "upcoming",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/gpt-5.3-codex"
    ]
@@ -5669,15 +4820,12 @@
    "shutdown": "2027-04-01",
    "shutdown_as_published": "Apr 1, 2027",
    "date_certainty": "firm",
-   "status": "scheduled",
-   "days_remaining": 130,
    "replacement": "gpt-6-luna",
    "announced": "2026-10-01",
    "page_status": "Deprecated",
    "section": "upcoming",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/gpt-5.4-nano"
    ]
@@ -5689,15 +4837,12 @@
    "shutdown": "2027-04-01",
    "shutdown_as_published": "Apr 1, 2027",
    "date_certainty": "firm",
-   "status": "scheduled",
-   "days_remaining": 130,
    "replacement": "gpt-6-luna",
    "announced": "2026-10-01",
    "page_status": "Deprecated",
    "section": "upcoming",
    "source": "https://developers.openai.com/api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "openai/gpt-5.4-nano-2026-03-17"
    ]
@@ -5709,13 +4854,10 @@
    "shutdown": "2027-04-01",
    "shutdown_as_published": "April 1, 2027",
    "date_certainty": "firm",
-   "status": "scheduled",
-   "days_remaining": 130,
    "replacement": "",
    "released": "February 12, 2024",
    "source": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "vertex_ai/multimodalembedding@001",
     "publishers/google/models/multimodalembedding@001"
@@ -5728,13 +4870,10 @@
    "shutdown": "2027-04-01",
    "shutdown_as_published": "April 1, 2027",
    "date_certainty": "firm",
-   "status": "scheduled",
-   "days_remaining": 130,
    "replacement": "",
    "released": "May 14, 2024",
    "source": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "vertex_ai/text-embedding-004",
     "publishers/google/models/text-embedding-004"
@@ -5747,13 +4886,10 @@
    "shutdown": "2027-04-01",
    "shutdown_as_published": "April 1, 2027",
    "date_certainty": "firm",
-   "status": "scheduled",
-   "days_remaining": 130,
    "replacement": "",
    "released": "November 18, 2024",
    "source": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "vertex_ai/text-embedding-005",
     "publishers/google/models/text-embedding-005"
@@ -5766,13 +4902,10 @@
    "shutdown": "2027-04-01",
    "shutdown_as_published": "April 1, 2027",
    "date_certainty": "firm",
-   "status": "scheduled",
-   "days_remaining": 130,
    "replacement": "",
    "released": "May 14, 2024",
    "source": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "vertex_ai/text-multilingual-embedding-002",
     "publishers/google/models/text-multilingual-embedding-002"
@@ -5784,15 +4917,12 @@
    "platform": "claude-api",
    "shutdown": "2027-04-16",
    "date_certainty": "not_earlier_than",
-   "status": "active",
-   "days_remaining": 145,
    "replacement": "",
    "announced": null,
    "page_state": "Active",
    "via": "status table",
    "source": "https://platform.claude.com/docs/en/about-claude/model-deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "anthropic/claude-opus-4-7"
    ]
@@ -5804,13 +4934,10 @@
    "shutdown": "2027-05-04",
    "shutdown_as_published": "May 4, 2027 or later",
    "date_certainty": "not_earlier_than",
-   "status": "active",
-   "days_remaining": 163,
    "replacement": "gemini-omni-1.2-flash",
    "released": "November 17, 2025",
    "source": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "vertex_ai/veo-3.1-fast-generate-001",
     "publishers/google/models/veo-3.1-fast-generate-001"
@@ -5823,13 +4950,10 @@
    "shutdown": "2027-05-04",
    "shutdown_as_published": "May 4, 2027 or later",
    "date_certainty": "not_earlier_than",
-   "status": "active",
-   "days_remaining": 163,
    "replacement": "gemini-omni-1.2-flash",
    "released": "November 17, 2025",
    "source": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "vertex_ai/veo-3.1-generate-001",
     "publishers/google/models/veo-3.1-generate-001"
@@ -5842,15 +4966,12 @@
    "shutdown": "2027-05-07",
    "shutdown_as_published": "May 7, 2027",
    "date_certainty": "not_earlier_than",
-   "status": "active",
-   "days_remaining": 0,
    "replacement": "gemini-3.5-flash-lite",
    "replacement_note": "",
    "released": "May 7, 2026",
    "section": "Gemini 3 models",
    "source": "https://ai.google.dev/gemini-api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "gemini/gemini-3.1-flash-lite",
     "models/gemini-3.1-flash-lite"
@@ -5863,13 +4984,10 @@
    "shutdown": "2027-05-07",
    "shutdown_as_published": "May 7, 2027 or later",
    "date_certainty": "not_earlier_than",
-   "status": "active",
-   "days_remaining": 166,
    "replacement": "",
    "released": "May 7, 2026",
    "source": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "vertex_ai/gemini-3.1-flash-lite",
     "publishers/google/models/gemini-3.1-flash-lite"
@@ -5882,13 +5000,10 @@
    "shutdown": "2027-05-19",
    "shutdown_as_published": "May 19, 2027 or later",
    "date_certainty": "not_earlier_than",
-   "status": "active",
-   "days_remaining": 178,
    "replacement": "",
    "released": "May 19, 2026",
    "source": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "vertex_ai/gemini-3.5-flash",
     "publishers/google/models/gemini-3.5-flash"
@@ -5900,15 +5015,12 @@
    "platform": "claude-api",
    "shutdown": "2027-05-28",
    "date_certainty": "not_earlier_than",
-   "status": "active",
-   "days_remaining": 187,
    "replacement": "",
    "announced": null,
    "page_state": "Active",
    "via": "status table",
    "source": "https://platform.claude.com/docs/en/about-claude/model-deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "anthropic/claude-opus-4-8"
    ]
@@ -5920,13 +5032,10 @@
    "shutdown": "2027-05-28",
    "shutdown_as_published": "May 28, 2027 or later",
    "date_certainty": "not_earlier_than",
-   "status": "active",
-   "days_remaining": 187,
    "replacement": "",
    "released": "May 28, 2026",
    "source": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "vertex_ai/gemini-3-pro-image",
     "publishers/google/models/gemini-3-pro-image"
@@ -5939,13 +5048,10 @@
    "shutdown": "2027-05-28",
    "shutdown_as_published": "May 28, 2027 or later",
    "date_certainty": "not_earlier_than",
-   "status": "active",
-   "days_remaining": 187,
    "replacement": "",
    "released": "May 28, 2026",
    "source": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "vertex_ai/gemini-3.1-flash-image",
     "publishers/google/models/gemini-3.1-flash-image"
@@ -5957,15 +5063,12 @@
    "platform": "claude-api",
    "shutdown": "2027-06-09",
    "date_certainty": "not_earlier_than",
-   "status": "active",
-   "days_remaining": 199,
    "replacement": "",
    "announced": null,
    "page_state": "Active",
    "via": "status table",
    "source": "https://platform.claude.com/docs/en/about-claude/model-deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "anthropic/claude-fable-5"
    ]
@@ -5976,15 +5079,12 @@
    "platform": "claude-api",
    "shutdown": "2027-06-09",
    "date_certainty": "not_earlier_than",
-   "status": "active",
-   "days_remaining": 199,
    "replacement": "",
    "announced": null,
    "page_state": "Active",
    "via": "status table",
    "source": "https://platform.claude.com/docs/en/about-claude/model-deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "anthropic/claude-mythos-5"
    ]
@@ -5996,13 +5096,10 @@
    "shutdown": "2027-06-28",
    "shutdown_as_published": "June 28, 2027 or later",
    "date_certainty": "not_earlier_than",
-   "status": "active",
-   "days_remaining": 218,
    "replacement": "",
    "released": "June 23, 2026",
    "source": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "vertex_ai/gemini-3.1-flash-lite-image",
     "publishers/google/models/gemini-3.1-flash-lite-image"
@@ -6014,15 +5111,12 @@
    "platform": "claude-api",
    "shutdown": "2027-06-30",
    "date_certainty": "not_earlier_than",
-   "status": "active",
-   "days_remaining": 220,
    "replacement": "",
    "announced": null,
    "page_state": "Active",
    "via": "status table",
    "source": "https://platform.claude.com/docs/en/about-claude/model-deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "anthropic/claude-sonnet-5"
    ]
@@ -6034,13 +5128,10 @@
    "shutdown": "2027-07-21",
    "shutdown_as_published": "July 21, 2027 or later",
    "date_certainty": "not_earlier_than",
-   "status": "active",
-   "days_remaining": 241,
    "replacement": "",
    "released": "July 21, 2026",
    "source": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "vertex_ai/gemini-3.5-flash-lite",
     "publishers/google/models/gemini-3.5-flash-lite"
@@ -6052,15 +5143,12 @@
    "platform": "claude-api",
    "shutdown": "2027-07-24",
    "date_certainty": "not_earlier_than",
-   "status": "active",
-   "days_remaining": 244,
    "replacement": "",
    "announced": null,
    "page_state": "Active",
    "via": "status table",
    "source": "https://platform.claude.com/docs/en/about-claude/model-deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "anthropic/claude-opus-5"
    ]
@@ -6071,15 +5159,12 @@
    "platform": "claude-api",
    "shutdown": "2027-09-01",
    "date_certainty": "not_earlier_than",
-   "status": "active",
-   "days_remaining": 283,
    "replacement": "",
    "announced": null,
    "page_state": "Active",
    "via": "status table",
    "source": "https://platform.claude.com/docs/en/about-claude/model-deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "anthropic/claude-fable-5-1"
    ]
@@ -6090,15 +5175,12 @@
    "platform": "claude-api",
    "shutdown": "2027-09-01",
    "date_certainty": "not_earlier_than",
-   "status": "active",
-   "days_remaining": 283,
    "replacement": "",
    "announced": null,
    "page_state": "Active",
    "via": "status table",
    "source": "https://platform.claude.com/docs/en/about-claude/model-deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "anthropic/claude-mythos-5-1"
    ]
@@ -6110,13 +5192,10 @@
    "shutdown": "2027-09-02",
    "shutdown_as_published": "September 2, 2027 or later",
    "date_certainty": "not_earlier_than",
-   "status": "active",
-   "days_remaining": 284,
    "replacement": "",
    "released": "September 2, 2026",
    "source": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "vertex_ai/gemini-3.8-flash",
     "publishers/google/models/gemini-3.8-flash"
@@ -6128,15 +5207,12 @@
    "platform": "claude-api",
    "shutdown": "2027-09-22",
    "date_certainty": "not_earlier_than",
-   "status": "active",
-   "days_remaining": 304,
    "replacement": "",
    "announced": null,
    "page_state": "Active",
    "via": "status table",
    "source": "https://platform.claude.com/docs/en/about-claude/model-deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "anthropic/claude-opus-5-5"
    ]
@@ -6148,13 +5224,10 @@
    "shutdown": "2027-09-25",
    "shutdown_as_published": "September 25, 2027 or later",
    "date_certainty": "not_earlier_than",
-   "status": "active",
-   "days_remaining": 307,
    "replacement": "",
    "released": "September 24, 2026",
    "source": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "vertex_ai/gemini-3.8-live",
     "publishers/google/models/gemini-3.8-live"
@@ -6166,15 +5239,12 @@
    "platform": "claude-api",
    "shutdown": "2027-09-28",
    "date_certainty": "not_earlier_than",
-   "status": "active",
-   "days_remaining": 310,
    "replacement": "",
    "announced": null,
    "page_state": "Active",
    "via": "status table",
    "source": "https://platform.claude.com/docs/en/about-claude/model-deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "anthropic/claude-sonnet-5-5"
    ]
@@ -6185,15 +5255,12 @@
    "platform": "claude-api",
    "shutdown": "2027-10-07",
    "date_certainty": "not_earlier_than",
-   "status": "active",
-   "days_remaining": 319,
    "replacement": "",
    "announced": null,
    "page_state": "Active",
    "via": "status table",
    "source": "https://platform.claude.com/docs/en/about-claude/model-deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "anthropic/claude-haiku-5-5"
    ]
@@ -6205,13 +5272,10 @@
    "shutdown": "2027-10-13",
    "shutdown_as_published": "October 13, 2027 or later",
    "date_certainty": "not_earlier_than",
-   "status": "active",
-   "days_remaining": 325,
    "replacement": "",
    "released": "October 13, 2026",
    "source": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "vertex_ai/gemini-4-argon",
     "publishers/google/models/gemini-4-argon"
@@ -6224,13 +5288,10 @@
    "shutdown": "2027-11-05",
    "shutdown_as_published": "November 5, 2027 or later",
    "date_certainty": "not_earlier_than",
-   "status": "active",
-   "days_remaining": 348,
    "replacement": "",
    "released": "November 5, 2026",
    "source": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "vertex_ai/gemini-omni-1.2-flash",
     "publishers/google/models/gemini-omni-1.2-flash"
@@ -6242,15 +5303,12 @@
    "platform": "claude-api",
    "shutdown": "2027-11-09",
    "date_certainty": "not_earlier_than",
-   "status": "active",
-   "days_remaining": 352,
    "replacement": "",
    "announced": null,
    "page_state": "Active",
    "via": "status table",
    "source": "https://platform.claude.com/docs/en/about-claude/model-deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "anthropic/claude-fable-5-2"
    ]
@@ -6261,15 +5319,12 @@
    "platform": "claude-api",
    "shutdown": "2027-11-09",
    "date_certainty": "not_earlier_than",
-   "status": "active",
-   "days_remaining": 352,
    "replacement": "",
    "announced": null,
    "page_state": "Active",
    "via": "status table",
    "source": "https://platform.claude.com/docs/en/about-claude/model-deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "anthropic/claude-mythos-5-2"
    ]
@@ -6281,15 +5336,12 @@
    "shutdown": "2028-05-14",
    "shutdown_as_published": "May 14, 2028",
    "date_certainty": "not_earlier_than",
-   "status": "active",
-   "days_remaining": 0,
    "replacement": "gemini-embedding-2",
    "replacement_note": "",
    "released": "July 14, 2025",
    "section": "Embedding models",
    "source": "https://ai.google.dev/gemini-api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "gemini/gemini-embedding-001",
     "models/gemini-embedding-001"
@@ -6302,13 +5354,10 @@
    "shutdown": "2028-05-20",
    "shutdown_as_published": "No sooner than May 20, 2028",
    "date_certainty": "not_earlier_than",
-   "status": "active",
-   "days_remaining": 545,
    "replacement": "",
    "released": "May 20, 2025",
    "source": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "vertex_ai/gemini-embedding-001",
     "publishers/google/models/gemini-embedding-001"
@@ -6320,15 +5369,12 @@
    "platform": "claude-api",
    "shutdown": null,
    "date_certainty": "unannounced",
-   "status": "active",
-   "days_remaining": 0,
    "replacement": "",
    "announced": "2026-06-09",
    "page_state": "Deprecated",
    "via": "status table",
    "source": "https://platform.claude.com/docs/en/about-claude/model-deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "anthropic/claude-mythos-preview"
    ]
@@ -6340,15 +5386,12 @@
    "shutdown": null,
    "shutdown_as_published": "No shutdown date announced",
    "date_certainty": "unannounced",
-   "status": "active",
-   "days_remaining": 0,
    "replacement": "",
    "replacement_note": "",
    "released": "September 17, 2026",
    "section": "Preview agents",
    "source": "https://ai.google.dev/gemini-api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "gemini/antigravity-preview-09-2026",
     "models/antigravity-preview-09-2026"
@@ -6361,15 +5404,12 @@
    "shutdown": null,
    "shutdown_as_published": "No shutdown date announced",
    "date_certainty": "unannounced",
-   "status": "active",
-   "days_remaining": 0,
    "replacement": "",
    "replacement_note": "",
    "released": "April 21, 2026",
    "section": "Preview agents",
    "source": "https://ai.google.dev/gemini-api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "gemini/deep-research-max-preview-04-2026",
     "models/deep-research-max-preview-04-2026"
@@ -6382,15 +5422,12 @@
    "shutdown": null,
    "shutdown_as_published": "No shutdown date announced",
    "date_certainty": "unannounced",
-   "status": "active",
-   "days_remaining": 0,
    "replacement": "",
    "replacement_note": "",
    "released": "April 21, 2026",
    "section": "Preview agents",
    "source": "https://ai.google.dev/gemini-api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "gemini/deep-research-preview-04-2026",
     "models/deep-research-preview-04-2026"
@@ -6403,15 +5440,12 @@
    "shutdown": null,
    "shutdown_as_published": "No shutdown date announced",
    "date_certainty": "unannounced",
-   "status": "active",
-   "days_remaining": 0,
    "replacement": "",
    "replacement_note": "",
    "released": "July 22, 2025",
    "section": "Gemini 2.5 Flash models",
    "source": "https://ai.google.dev/gemini-api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "gemini/gemini-2.5-flash-lite",
     "models/gemini-2.5-flash-lite"
@@ -6424,15 +5458,12 @@
    "shutdown": null,
    "shutdown_as_published": "No shutdown date announced",
    "date_certainty": "unannounced",
-   "status": "active",
-   "days_remaining": 0,
    "replacement": "gemini-3.6-flash",
    "replacement_note": "",
    "released": "December 17, 2025",
    "section": "Preview models",
    "source": "https://ai.google.dev/gemini-api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "gemini/gemini-3-flash-preview",
     "models/gemini-3-flash-preview"
@@ -6445,15 +5476,12 @@
    "shutdown": null,
    "shutdown_as_published": "No shutdown date announced",
    "date_certainty": "unannounced",
-   "status": "active",
-   "days_remaining": 0,
    "replacement": "",
    "replacement_note": "",
    "released": "May 28, 2026",
    "section": "Nano Banana models",
    "source": "https://ai.google.dev/gemini-api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "gemini/gemini-3-pro-image",
     "models/gemini-3-pro-image"
@@ -6466,15 +5494,12 @@
    "shutdown": null,
    "shutdown_as_published": "No shutdown date announced",
    "date_certainty": "unannounced",
-   "status": "active",
-   "days_remaining": 0,
    "replacement": "gemini-nano-banana-2.1",
    "replacement_note": "",
    "released": "May 28, 2026",
    "section": "Nano Banana models",
    "source": "https://ai.google.dev/gemini-api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "gemini/gemini-3.1-flash-image",
     "models/gemini-3.1-flash-image"
@@ -6487,15 +5512,12 @@
    "shutdown": null,
    "shutdown_as_published": "No shutdown date announced",
    "date_certainty": "unannounced",
-   "status": "active",
-   "days_remaining": 0,
    "replacement": "",
    "replacement_note": "",
    "released": "June 30, 2026",
    "section": "Nano Banana models",
    "source": "https://ai.google.dev/gemini-api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "gemini/gemini-3.1-flash-lite-image",
     "models/gemini-3.1-flash-lite-image"
@@ -6508,15 +5530,12 @@
    "shutdown": null,
    "shutdown_as_published": "No shutdown date announced",
    "date_certainty": "unannounced",
-   "status": "active",
-   "days_remaining": 0,
    "replacement": "gemini-3.8-live",
    "replacement_note": "",
    "released": "March 11, 2026",
    "section": "Preview models",
    "source": "https://ai.google.dev/gemini-api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "gemini/gemini-3.1-flash-live-preview",
     "models/gemini-3.1-flash-live-preview"
@@ -6529,15 +5548,12 @@
    "shutdown": null,
    "shutdown_as_published": "No shutdown date announced",
    "date_certainty": "unannounced",
-   "status": "active",
-   "days_remaining": 0,
    "replacement": "",
    "replacement_note": "",
    "released": "February 19, 2026",
    "section": "Preview models",
    "source": "https://ai.google.dev/gemini-api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "gemini/gemini-3.1-pro-preview",
     "models/gemini-3.1-pro-preview"
@@ -6550,15 +5566,12 @@
    "shutdown": null,
    "shutdown_as_published": "No shutdown date announced",
    "date_certainty": "unannounced",
-   "status": "active",
-   "days_remaining": 0,
    "replacement": "",
    "replacement_note": "",
    "released": "July 21, 2026",
    "section": "Gemini 3 models",
    "source": "https://ai.google.dev/gemini-api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "gemini/gemini-3.5-flash-lite",
     "models/gemini-3.5-flash-lite"
@@ -6571,15 +5584,12 @@
    "shutdown": null,
    "shutdown_as_published": "No shutdown date announced",
    "date_certainty": "unannounced",
-   "status": "active",
-   "days_remaining": 0,
    "replacement": "",
    "replacement_note": "",
    "released": "June 2026",
    "section": "Preview models",
    "source": "https://ai.google.dev/gemini-api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "gemini/gemini-3.5-live-translate-preview",
     "models/gemini-3.5-live-translate-preview"
@@ -6592,15 +5602,12 @@
    "shutdown": null,
    "shutdown_as_published": "No shutdown date announced",
    "date_certainty": "unannounced",
-   "status": "active",
-   "days_remaining": 0,
    "replacement": "",
    "replacement_note": "",
    "released": "August 2026",
    "section": "Audio models",
    "source": "https://ai.google.dev/gemini-api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "gemini/gemini-3.5-transcribe",
     "models/gemini-3.5-transcribe"
@@ -6613,15 +5620,12 @@
    "shutdown": null,
    "shutdown_as_published": "No shutdown date announced",
    "date_certainty": "unannounced",
-   "status": "active",
-   "days_remaining": 0,
    "replacement": "",
    "replacement_note": "",
    "released": "August 2026",
    "section": "Live API models",
    "source": "https://ai.google.dev/gemini-api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "gemini/gemini-3.5-transcribe-live",
     "models/gemini-3.5-transcribe-live"
@@ -6634,15 +5638,12 @@
    "shutdown": null,
    "shutdown_as_published": "No shutdown date announced",
    "date_certainty": "unannounced",
-   "status": "active",
-   "days_remaining": 0,
    "replacement": "",
    "replacement_note": "",
    "released": "July 21, 2026",
    "section": "Gemini 3 models",
    "source": "https://ai.google.dev/gemini-api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "gemini/gemini-3.6-flash",
     "models/gemini-3.6-flash"
@@ -6655,15 +5656,12 @@
    "shutdown": null,
    "shutdown_as_published": "No shutdown date announced",
    "date_certainty": "unannounced",
-   "status": "active",
-   "days_remaining": 0,
    "replacement": "",
    "replacement_note": "",
    "released": "September 2, 2026",
    "section": "Gemini 3 models",
    "source": "https://ai.google.dev/gemini-api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "gemini/gemini-3.8-flash",
     "models/gemini-3.8-flash"
@@ -6676,15 +5674,12 @@
    "shutdown": null,
    "shutdown_as_published": "No shutdown date announced",
    "date_certainty": "unannounced",
-   "status": "active",
-   "days_remaining": 0,
    "replacement": "",
    "replacement_note": "",
    "released": "September 22, 2026",
    "section": "Gemini 3 models",
    "source": "https://ai.google.dev/gemini-api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "gemini/gemini-3.8-flash-lite-tts",
     "models/gemini-3.8-flash-lite-tts"
@@ -6697,15 +5692,12 @@
    "shutdown": null,
    "shutdown_as_published": "No shutdown date announced",
    "date_certainty": "unannounced",
-   "status": "active",
-   "days_remaining": 0,
    "replacement": "",
    "replacement_note": "",
    "released": "September 22, 2026",
    "section": "Gemini 3 models",
    "source": "https://ai.google.dev/gemini-api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "gemini/gemini-3.8-flash-tts",
     "models/gemini-3.8-flash-tts"
@@ -6718,15 +5710,12 @@
    "shutdown": null,
    "shutdown_as_published": "No shutdown date announced",
    "date_certainty": "unannounced",
-   "status": "active",
-   "days_remaining": 0,
    "replacement": "",
    "replacement_note": "",
    "released": "September 15, 2026",
    "section": "Live API models",
    "source": "https://ai.google.dev/gemini-api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "gemini/gemini-3.8-live",
     "models/gemini-3.8-live"
@@ -6739,15 +5728,12 @@
    "shutdown": null,
    "shutdown_as_published": "No shutdown date announced",
    "date_certainty": "unannounced",
-   "status": "active",
-   "days_remaining": 0,
    "replacement": "",
    "replacement_note": "",
    "released": "September 15, 2026",
    "section": "Live API models",
    "source": "https://ai.google.dev/gemini-api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "gemini/gemini-3.8-live-extended-thinking",
     "models/gemini-3.8-live-extended-thinking"
@@ -6760,15 +5746,12 @@
    "shutdown": null,
    "shutdown_as_published": "No shutdown date announced",
    "date_certainty": "unannounced",
-   "status": "active",
-   "days_remaining": 0,
    "replacement": "",
    "replacement_note": "",
    "released": "October 13, 2026",
    "section": "Gemini 4 models",
    "source": "https://ai.google.dev/gemini-api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "gemini/gemini-4-argon",
     "models/gemini-4-argon"
@@ -6781,15 +5764,12 @@
    "shutdown": null,
    "shutdown_as_published": "No shutdown date announced",
    "date_certainty": "unannounced",
-   "status": "active",
-   "days_remaining": 0,
    "replacement": "",
    "replacement_note": "",
    "released": "November 10, 2026",
    "section": "Gemini 4 models",
    "source": "https://ai.google.dev/gemini-api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "gemini/gemini-4-carbon",
     "models/gemini-4-carbon"
@@ -6802,15 +5782,12 @@
    "shutdown": null,
    "shutdown_as_published": "No shutdown date announced",
    "date_certainty": "unannounced",
-   "status": "active",
-   "days_remaining": 0,
    "replacement": "",
    "replacement_note": "",
    "released": "November 12, 2026",
    "section": "Gemini 4 models",
    "source": "https://ai.google.dev/gemini-api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "gemini/gemini-4-hydrogen",
     "models/gemini-4-hydrogen"
@@ -6823,15 +5800,12 @@
    "shutdown": null,
    "shutdown_as_published": "No shutdown date announced",
    "date_certainty": "unannounced",
-   "status": "active",
-   "days_remaining": 0,
    "replacement": "",
    "replacement_note": "",
    "released": "November 18, 2026",
    "section": "Gemini 4 models",
    "source": "https://ai.google.dev/gemini-api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "gemini/gemini-4-neon",
     "models/gemini-4-neon"
@@ -6844,15 +5818,12 @@
    "shutdown": null,
    "shutdown_as_published": "No shutdown date announced",
    "date_certainty": "unannounced",
-   "status": "active",
-   "days_remaining": 0,
    "replacement": "",
    "replacement_note": "",
    "released": "November 11, 2026",
    "section": "Gemini Decision models",
    "source": "https://ai.google.dev/gemini-api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "gemini/gemini-decision-1",
     "models/gemini-decision-1"
@@ -6865,15 +5836,12 @@
    "shutdown": null,
    "shutdown_as_published": "No shutdown date announced",
    "date_certainty": "unannounced",
-   "status": "active",
-   "days_remaining": 0,
    "replacement": "",
    "replacement_note": "",
    "released": "April 22, 2026",
    "section": "Embedding models",
    "source": "https://ai.google.dev/gemini-api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "gemini/gemini-embedding-2",
     "models/gemini-embedding-2"
@@ -6886,15 +5854,12 @@
    "shutdown": null,
    "shutdown_as_published": "No shutdown date announced",
    "date_certainty": "unannounced",
-   "status": "active",
-   "days_remaining": 0,
    "replacement": "",
    "replacement_note": "",
    "released": "October 6, 2026",
    "section": "Nano Banana models",
    "source": "https://ai.google.dev/gemini-api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "gemini/gemini-nano-banana-2.1",
     "models/gemini-nano-banana-2.1"
@@ -6907,15 +5872,12 @@
    "shutdown": null,
    "shutdown_as_published": "No shutdown date announced",
    "date_certainty": "unannounced",
-   "status": "active",
-   "days_remaining": 0,
    "replacement": "",
    "replacement_note": "",
    "released": "November 5, 2026",
    "section": "Gemini Omni Flash models",
    "source": "https://ai.google.dev/gemini-api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "gemini/gemini-omni-1.2-flash",
     "models/gemini-omni-1.2-flash"
@@ -6928,15 +5890,12 @@
    "shutdown": null,
    "shutdown_as_published": "No shutdown date announced",
    "date_certainty": "unannounced",
-   "status": "active",
-   "days_remaining": 0,
    "replacement": "",
    "replacement_note": "",
    "released": "July 30, 2026",
    "section": "Preview models",
    "source": "https://ai.google.dev/gemini-api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "gemini/gemini-robotics-er-2-preview",
     "models/gemini-robotics-er-2-preview"
@@ -6949,15 +5908,12 @@
    "shutdown": null,
    "shutdown_as_published": "No shutdown date announced",
    "date_certainty": "unannounced",
-   "status": "active",
-   "days_remaining": 0,
    "replacement": "",
    "replacement_note": "",
    "released": "July 30, 2026",
    "section": "Preview models",
    "source": "https://ai.google.dev/gemini-api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "gemini/gemini-robotics-er-2-streaming-preview",
     "models/gemini-robotics-er-2-streaming-preview"
@@ -6970,15 +5926,12 @@
    "shutdown": null,
    "shutdown_as_published": "No shutdown date announced",
    "date_certainty": "unannounced",
-   "status": "active",
-   "days_remaining": 0,
    "replacement": "",
    "replacement_note": "",
    "released": "November 19, 2026",
    "section": "Genie models",
    "source": "https://ai.google.dev/gemini-api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "gemini/genie-4",
     "models/genie-4"
@@ -6991,15 +5944,12 @@
    "shutdown": null,
    "shutdown_as_published": "No shutdown date announced",
    "date_certainty": "unannounced",
-   "status": "active",
-   "days_remaining": 0,
    "replacement": "",
    "replacement_note": "",
    "released": "March 25, 2026",
    "section": "Preview models",
    "source": "https://ai.google.dev/gemini-api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "gemini/lyria-3-clip-preview",
     "models/lyria-3-clip-preview"
@@ -7012,15 +5962,12 @@
    "shutdown": null,
    "shutdown_as_published": "No shutdown date announced",
    "date_certainty": "unannounced",
-   "status": "active",
-   "days_remaining": 0,
    "replacement": "lyria-3.5",
    "replacement_note": "",
    "released": "March 25, 2026",
    "section": "Preview models",
    "source": "https://ai.google.dev/gemini-api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "gemini/lyria-3-pro-preview",
     "models/lyria-3-pro-preview"
@@ -7033,15 +5980,12 @@
    "shutdown": null,
    "shutdown_as_published": "No shutdown date announced",
    "date_certainty": "unannounced",
-   "status": "active",
-   "days_remaining": 0,
    "replacement": "",
    "replacement_note": "",
    "released": "September 3, 2026",
    "section": "Lyria models",
    "source": "https://ai.google.dev/gemini-api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "gemini/lyria-3.5",
     "models/lyria-3.5"
@@ -7054,15 +5998,12 @@
    "shutdown": null,
    "shutdown_as_published": "No shutdown date announced",
    "date_certainty": "unannounced",
-   "status": "active",
-   "days_remaining": 0,
    "replacement": "",
    "replacement_note": "",
    "released": "May 20, 2025",
    "section": "Preview models",
    "source": "https://ai.google.dev/gemini-api/docs/deprecations",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "gemini/lyria-realtime-exp",
     "models/lyria-realtime-exp"
@@ -7075,13 +6016,10 @@
    "shutdown": null,
    "shutdown_as_published": "No retirement date announced",
    "date_certainty": "unannounced",
-   "status": "active",
-   "days_remaining": 0,
    "replacement": "",
    "released": "September 16, 2026",
    "source": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "vertex_ai/gemini-3.8-flash-cyber",
     "publishers/google/models/gemini-3.8-flash-cyber"
@@ -7094,13 +6032,10 @@
    "shutdown": null,
    "shutdown_as_published": "No retirement date announced",
    "date_certainty": "unannounced",
-   "status": "active",
-   "days_remaining": 0,
    "replacement": "",
    "released": "October 13, 2026",
    "source": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "vertex_ai/gemini-4-argon-cyber-permissive",
     "publishers/google/models/gemini-4-argon-cyber-permissive"
@@ -7113,13 +6048,10 @@
    "shutdown": null,
    "shutdown_as_published": "No retirement date announced",
    "date_certainty": "unannounced",
-   "status": "active",
-   "days_remaining": 0,
    "replacement": "",
    "released": "November 10, 2026",
    "source": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "vertex_ai/gemini-4-carbon",
     "publishers/google/models/gemini-4-carbon"
@@ -7132,13 +6064,10 @@
    "shutdown": null,
    "shutdown_as_published": "No retirement date announced",
    "date_certainty": "unannounced",
-   "status": "active",
-   "days_remaining": 0,
    "replacement": "",
    "released": "November 10, 2026",
    "source": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "vertex_ai/gemini-4-carbon-cyber-permissive",
     "publishers/google/models/gemini-4-carbon-cyber-permissive"
@@ -7151,13 +6080,10 @@
    "shutdown": null,
    "shutdown_as_published": "No retirement date announced",
    "date_certainty": "unannounced",
-   "status": "active",
-   "days_remaining": 0,
    "replacement": "",
    "released": "November 12, 2026",
    "source": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "vertex_ai/gemini-4-hydrogen",
     "publishers/google/models/gemini-4-hydrogen"
@@ -7170,13 +6096,10 @@
    "shutdown": null,
    "shutdown_as_published": "No retirement date announced",
    "date_certainty": "unannounced",
-   "status": "active",
-   "days_remaining": 0,
    "replacement": "",
    "released": "November 18, 2026",
    "source": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "vertex_ai/gemini-4-neon",
     "publishers/google/models/gemini-4-neon"
@@ -7189,13 +6112,10 @@
    "shutdown": null,
    "shutdown_as_published": "No retirement date announced",
    "date_certainty": "unannounced",
-   "status": "active",
-   "days_remaining": 0,
    "replacement": "",
    "released": "October 6, 2026",
    "source": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions",
    "verified": true,
-   "verified_on": "2026-11-22",
    "also_written_as": [
     "vertex_ai/gemini-nano-banana-2.1",
     "publishers/google/models/gemini-nano-banana-2.1"

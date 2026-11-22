@@ -1,0 +1,48 @@
+name: rebuild
+
+# Every six hours, read the providers' pages again and commit the feed if anything moved. A rebuild
+# that looks wrong (a provider that drops to zero entries because its page changed shape) fails the
+# run, and GitHub emails the repository owner about a failed scheduled run.
+on:
+  schedule:
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: rebuild
+  cancel-in-progress: false
+
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Rebuild
+        id: rebuild
+        run: |
+          set +e
+          python rebuild.py
+          code=$?
+          echo "code=$code" >> "$GITHUB_OUTPUT"
+          [ "$code" = 0 ] || [ "$code" = 10 ]
+      - name: Run the parser tests
+        run: python -m unittest discover tests
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [ "${{ steps.rebuild.outputs.code }}" = 10 ]; then
+            git add data
+            git commit -m "Update the feed: the providers' pages changed"
+          elif [ "$(date -u +%H)" -lt 6 ]; then
+            git add data/status.json
+            git commit -m "Record the daily check" || true
+          fi
+          git push

@@ -9,11 +9,17 @@ Usage: drift.py <feed.json> <live.json> <provider>
 from __future__ import annotations
 
 import json
+
+import os
+import sys
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import feedlib  # noqa: E402
 import sys
 
 
 def main() -> int:
-    feed = json.load(open(sys.argv[1]))
+    feed = feedlib.with_derived(json.load(open(sys.argv[1])))
     live = json.load(open(sys.argv[2]))
     provider = sys.argv[3]
 

@@ -24,6 +24,12 @@ import datetime as dt
 import json
 import sys
 
+import os
+import sys
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import feedlib  # noqa: E402
+
 PREFIXES = {
     "claude-api": ["anthropic/"],
     "openai-api": ["openai/"],
@@ -59,21 +65,20 @@ def main() -> int:
             continue
         unverified += 1
         platform = e["platform"]
-        past = bool(e["shutdown"]) and dt.date.fromisoformat(e["shutdown"]) <= today
         models[key] = {
             "id": e["id"], "provider": e["provider"], "platform": platform,
             "shutdown": e["shutdown"], "date_certainty": "unknown",
-            "status": "retired" if past else "scheduled", "days_remaining": 0,
             "replacement": e["replacement"], "verified": False,
             "verified_on": seed["sources"].get(e["provider"], {}).get("checked"),
             "also_written_as": [p + e["id"] for p in PREFIXES.get(platform, [])],
             "source": e["source"],
         }
 
+    # status and days_remaining depend on today's date, so they are not stored: see feedlib.derive.
     for e in models.values():
-        sd = e.get("shutdown")
-        if sd and e["status"] == "scheduled":
-            e["days_remaining"] = max(0, (dt.date.fromisoformat(sd) - today).days)
+        e.pop("status", None)
+        e.pop("days_remaining", None)
+        e.pop("verified_on", None)
 
     rows = sorted(models.values(), key=lambda e: (e["shutdown"] or "9999", e["provider"], e["id"]))
     feed = {
@@ -95,17 +100,18 @@ def main() -> int:
     }
     json.dump(feed, open(out_path, "w"), indent=1)
 
+    shown = feedlib.with_derived({"models": [dict(e) for e in rows]}, today)["models"]
     print(f"{len(rows)} entries -> {out_path}   ({feed['counts']['verified']} verified, "
           f"{unverified} carried from the seed unverified)\n")
     print(f"{'provider':<10}{'total':>6}{'verified':>9}{'unverif.':>9}{'retired':>9}{'dated ahead':>12}")
     for prov in ("Anthropic", "OpenAI", "Google", "Vertex AI"):
-        es = [e for e in rows if e["provider"] == prov]
+        es = [e for e in shown if e["provider"] == prov]
         print(f"{prov:<10}{len(es):>6}{len([e for e in es if e['verified']]):>9}"
               f"{len([e for e in es if not e['verified']]):>9}"
               f"{len([e for e in es if e['status'] == 'retired']):>9}"
               f"{len([e for e in es if e['status'] == 'scheduled']):>12}")
     print("\nfirm or announced deadlines in the next 150 days:")
-    soon = [e for e in rows if e["status"] == "scheduled" and e["days_remaining"] <= 150
+    soon = [e for e in shown if e["status"] == "scheduled" and e["days_remaining"] <= 150
             and e["date_certainty"] in ("firm", "announced")]
     for e in soon:
         print(f"  {e['shutdown']} ({e['days_remaining']:>3}d) {e['provider']:<10} "
