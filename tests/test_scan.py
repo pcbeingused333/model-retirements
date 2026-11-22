@@ -102,6 +102,13 @@ class Platforms(unittest.TestCase):
         d = run({"src/app.py": 'MODEL = "claude-opus-5"\n'}, "--config-only")
         self.assertEqual(d["findings"], [])
 
+    def test_an_id_after_a_provider_prefix_is_found_but_after_a_path_is_not(self):
+        d = run({"src/app.py": 'A = "openai/gpt-3.5-turbo"\nB = "vertexai/gpt-3.5-turbo"\n',
+                 "src/paths.py": 'C = "docs/gpt-3.5-turbo.md"\nD = "x/gpt-3.5-turbo"\n'}, "--all")
+        self.assertEqual(sorted((f["file"], f["line"], f["found"]) for f in d["findings"]
+                                if f["file"].startswith("src/")),
+                         [("src/app.py", 1, "gpt-3.5-turbo"), ("src/app.py", 2, "gpt-3.5-turbo")])
+
 
 if __name__ == "__main__":
     unittest.main()

@@ -46,6 +46,12 @@ CONFIG = re.compile(
 COMMENT = re.compile(r"^\s*(#|//|\*|<!--|--)")
 
 
+# Libraries write `google/gemini-2.0-flash-001` or `vertexai/text-bison`: the provider is part of the
+# string and the model is the id after it. Any other `/` before an id is a path (`docs/gpt-4.md`).
+PROVIDER_PREFIXES = ("openai", "azure", "google", "vertexai", "vertex_ai", "gemini", "anthropic",
+                     "bedrock", "models")
+
+
 def id_pattern(ids):
     """One regex over every id, longest first so `gpt-4.1-nano-2025-04-14` wins over `gpt-4.1-nano`.
 
@@ -58,7 +64,8 @@ def id_pattern(ids):
     false positive, and the second is the one that loses a user's trust.
     """
     alts = "|".join(re.escape(i) for i in sorted(ids, key=len, reverse=True))
-    return re.compile(rf"(?<![A-Za-z0-9._/-])({alts})(?![A-Za-z0-9]|[-_.][A-Za-z0-9])")
+    prefixed = "".join(rf"|(?<=(?<![A-Za-z0-9._/-]){p}/)" for p in PROVIDER_PREFIXES)
+    return re.compile(rf"(?:(?<![A-Za-z0-9._/-]){prefixed})({alts})(?![A-Za-z0-9]|[-_.][A-Za-z0-9])")
 
 
 KEY = r"(?:model|deployment|engine|llm|checkpoint)"
