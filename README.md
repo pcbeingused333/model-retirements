@@ -24,7 +24,7 @@ deprecations alone, it had drifted: 6 models with the wrong recommended replacem
 now goes to `gpt-6.1-sol`, not `gpt-5.6-sol`) and 41 models missing. A hand-copied table is a
 constant in someone's source file, and these dates are not constant.
 
-Today 354 of the feed's 361 entries were read from a provider page by a parser, with the date
+Today 353 of the feed's 360 entries were read from a provider page by a parser, with the date
 they were read. The other 7 are aliases that no page names, kept from the seed and marked
 `verified: false`.
 
@@ -58,7 +58,7 @@ an id and reports each one.
 
 | File | What it does |
 | --- | --- |
-| `data/feed.json` | The feed: 361 entries across Anthropic, OpenAI, Gemini API and Vertex AI. |
+| `data/feed.json` | The feed: 360 entries across Anthropic, OpenAI, Gemini API and Vertex AI. |
 | `parse_openai.py` | OpenAI's page, from its HTML tables: upcoming and past deprecations. |
 | `parse_anthropic.py` | Anthropic's page, from its Markdown source: status table plus deprecation history, including aliases the prose names. |
 | `parse_gemini.py` | Gemini API's page, from its Markdown source (the HTML is a JavaScript shell with no content). |
@@ -91,6 +91,16 @@ Pages: `developers.openai.com/api/docs/deprecations`,
 `aistudio.google.com/docs/deprecations.md` (what `ai.google.dev/gemini-api/docs/deprecations`
 redirects to), and `docs.cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions`.
 `scan.py` exits 1 when it reports anything, so it can gate CI.
+
+## Corrections
+
+- **2026-11-22.** The OpenAI parser read any row of the table as a model if it contained something
+  that looked like an id, so a row about the end of a *feature* ("New fine-tuning training on
+  davinci-002") produced an entry for `fine-tuning` and gave `davinci-002` and `babbage-002` the
+  wrong date and replacement. A row now counts as a model only in four exact shapes
+  (`parse_openai.ids`), pinned by `tests/test_parse_openai.py`. The feed was rebuilt: one entry
+  removed, two corrected. The same rebuild showed Vertex moving `gemini-3.6-flash` from 2026-11-19
+  to 2027-01-28 two days after the first build.
 
 ## Honest limits, as of today
 

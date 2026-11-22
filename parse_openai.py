@@ -40,24 +40,45 @@ def iso(cell: str):
     return f"{mo.group(3)}-{MONTHS[mo.group(1)]:02d}-{int(mo.group(2)):02d}" if mo else None
 
 
-def ids(cell: str) -> list[str]:
-    """Api ids named in a model cell: those before any parenthesis plus those inside one.
+def is_id(token: str) -> bool:
+    """A lowercase api model id: letters and digits, with a digit or a hyphen somewhere."""
+    return bool(MODEL_ID.match(token)) and bool(re.search(r"[a-z]", token)) and bool(re.search(r"[\d-]", token))
 
-    "GPT-4o ( gpt-4o-2024-08-06 , gpt-4o-2024-11-20 )" -> the two ids, not the display name;
-    "gpt-4-0125-preview (including gpt-4-turbo-preview ..., which point to this snapshot)"
-    -> the snapshot and the aliases it names, not the prose around them. A token counts as an
-    id only if it is lowercase, has a letter and a digit or hyphen, and is made of id characters.
+
+def ids(cell: str) -> list[str]:
+    """The api ids a row retires, or [] when the row is about something else.
+
+    A row counts as a model row only in these shapes, because the page also lists features, prices
+    and settings in the same table and a loose reading turned them into models (a row "New
+    fine-tuning training on davinci-002" is the end of a feature, not of the model, and read loosely
+    it yielded a model called `fine-tuning`):
+
+      "gpt-5 , gpt-5-2025-08-07"                     every comma-separated item is an id
+      "GPT-4o ( gpt-4o-2024-08-06 , ... )"           a display name, then the ids in parentheses
+      "gpt-4-0125-preview (including a and b, ...)"  an id, plus the ids the parenthesis names
+      "text-davinci-003 Historical price $20 / 1M"   an old model that quotes its price
     """
-    head = cell.split("(")[0]
-    tokens = re.split(r"[,\s]+", head)
-    for inner in re.findall(r"\(([^)]*)\)", cell):
-        tokens += re.split(r"[,\s]+", inner)
-    out = []
-    for t in tokens:
-        t = t.strip("`.;:")
-        if MODEL_ID.match(t) and re.search(r"[a-z]", t) and re.search(r"[\d-]", t) and t not in out:
-            out.append(t)
-    return out
+    cell = " ".join(cell.split())
+    head, _, rest = cell.partition("(")
+    paren = rest.rsplit(")", 1)[0] if rest else ""
+    head = head.strip()
+
+    priced = re.match(r"^(\S+)\s+Historical price\b", head)
+    if priced and is_id(priced.group(1)):
+        return [priced.group(1)]
+
+    items = [t.strip("` ") for t in head.split(",") if t.strip("` ")]
+    if items and all(is_id(t) for t in items):
+        out = list(items)
+        if paren.lower().startswith("including"):
+            out += [t for t in (x.strip(".;:` ") for x in re.split(r"[,\s]+", paren)) if is_id(t)]
+        return list(dict.fromkeys(out))
+
+    if paren and head[:1].isupper() and len(head.split()) <= 3:
+        named = [t.strip("` ") for t in paren.split(",")]
+        if named and all(is_id(t) for t in named):
+            return named
+    return []
 
 
 def col(head, *names):

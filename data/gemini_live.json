@@ -1,6 +1,6 @@
 {
  "source": "https://ai.google.dev/gemini-api/docs/deprecations",
- "read_on": "2026-11-20",
+ "read_on": "2026-11-22",
  "models": [
   {
    "id": "gemini-4-neon",
