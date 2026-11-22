@@ -86,6 +86,7 @@ python merge_feed.py data/seed_feed.json data/feed.json data/openai_live.json da
 
 python scan.py data/feed.json ./src --config-only     # ids that look like configuration
 python scan.py data/feed.json ./src --within-days=90  # only what is dated inside 90 days
+python scan.py data/feed.json ./src --all             # include tests, docs and catalogue files
 python scan.py data/feed.json ./src --json            # machine-readable, one object per hit
 python drift.py data/seed_feed.json data/openai_live.json OpenAI
 ```
@@ -121,11 +122,17 @@ months ahead, so six hours is plenty; the point is to notice a change within the
 
 ## Honest limits, as of today
 
-- **`scan.py` reads text, not syntax.** It cannot tell a model id that configures a request
-  from one in a changelog, so every finding carries its context and `--config-only` keeps the
-  ones that look like configuration. On a library that catalogues models (a router, a cost
-  map) it reports thousands of hits that are not bugs. For Python, `llm-drift-lint` resolves
-  the model through the AST and is the better tool.
+- **`scan.py` reads text, not syntax.** It decides what is a model setting from the shape of the line,
+  not from the code, so some hits are not what they look like. To keep that from burying the real
+  ones, every finding is classified by where it is (`source`, `example`, `test`, `docs`, `catalogue`: a
+  file that names twelve or more of these models is a list of models, not code that uses one) and the
+  default report shows only `source` and `example`, **saying how many it left out** (`--all` shows
+  everything). A hit counts as `config` only when the id is the value of a model setting
+  (`model="x"`, `model: x`), not when it sits in a sentence. On a model router the first version
+  reported 6,893 hits, almost all in tests. Measured by reading 40 random hits of what is still shown:
+  33 were real, 3 were docstring examples and 4 were ids that exist on two platforms with different
+  dates (now both are shown). That is about 82%, on a small sample, so treat it as an order of
+  magnitude. For Python, `llm-drift-lint` resolves the model through the syntax tree and is better.
 - **The id guard prefers missing an alias to flagging a live model.** `gpt-5` does not match
   inside `gpt-5-codex`. An id the feed lists with a suffix is matched in full.
 - **The parsers depend on each page's layout.** Anthropic and Gemini are read from Markdown

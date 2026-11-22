@@ -11,13 +11,16 @@ Python specifically, llm-drift-lint resolves the model through the AST and is th
 Exit code 1 if anything is reported, so it can gate CI.
 
 Usage: scan.py <feed.json> <path> [--config-only] [--within-days=N] [--include-floors] [--json]
+                                  [--kinds=source,example,test,docs,catalogue | --all]
 """
 from __future__ import annotations
 
+import collections
 import datetime as dt
 import json
 
 import os
+from pathlib import Path
 import sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
@@ -58,12 +61,79 @@ def id_pattern(ids):
     return re.compile(rf"(?<![A-Za-z0-9._/-])({alts})(?![A-Za-z0-9]|[-_.][A-Za-z0-9])")
 
 
+KEY = r"(?:model|deployment|engine|llm|checkpoint)"
+# The id is the VALUE of a model key: `model="x"`, `model: "x"`, `OpenAI(model="x")`.
+ASSIGNED = re.compile(KEY + r"""[\w.]*["']?\s*(?:=>|:=|=|:)\s*(?:[\w.]+\s*\()?\s*["'`]$""", re.I)
+# A whole line that is a key and a value (YAML, TOML, .env, a dict entry on its own line).
+KEY_VALUE_LINE = re.compile(
+    r"""^\s*[-\s]*[\w.\-"']*""" + KEY + r"""[\w.\-"']*\s*[:=]\s*["'`]?[^\s"'`#,)]+["'`]?\s*,?\s*(?:#.*)?$""", re.I)
+FALLBACK = re.compile(r"(getenv|environ|process\.env|ENV\[|default|fallback)", re.I)
+
+
+def context_of(line: str, start: int) -> str:
+    """`comment`, `config` or `mention` for a model id found at `start` in `line`.
+
+    `config` means the id is the value of a model setting. An id inside a sentence, a docstring
+    ("e.g., "gemini-2.0-flash""), a log message or a printed example is a `mention`: in a sample of
+    40 hits, 9 were that kind and none of the 30 real ones was misread this way.
+    """
+    if COMMENT.match(line):
+        return "comment"
+    if ASSIGNED.search(line[:start]) or KEY_VALUE_LINE.match(line):
+        return "config"
+    quoted = start > 0 and line[start - 1] in "'\"`"
+    if quoted and FALLBACK.search(line):
+        return "config"
+    return "mention"
+
+
+TEST_DIRS = {"test", "tests", "__tests__", "spec", "specs", "e2e", "testdata", "fixtures", "__mocks__",
+             "mocks", "cypress", "playwright"}
+DOC_DIRS = {"docs", "doc", "documentation", "website", "blog", "wiki", "site"}
+EXAMPLE_DIRS = {"examples", "example", "samples", "sample", "demo", "demos", "cookbook", "notebooks"}
+DOC_EXT = {".md", ".mdx", ".rst", ".txt", ".adoc", ".ipynb"}
+TEST_NAME = re.compile(r"(^test_|^conftest\.py$|(_test|\.test|\.spec|_spec)\.[a-z]+$)", re.I)
+CATALOGUE_NAME = re.compile(
+    r"(model[_-]?(prices?|cost|list|catalog|registry|map)|pricing|(^|[_-])prices?([_-]|\.)|catalog|cost[_-]?map"
+    r"|^models\.(json|ya?ml)$)", re.I)
+# A file that names this many distinct retired or retiring models is a list of models, not code that
+# uses one. A cost map, a provider registry or a router's table of every model it supports.
+CATALOGUE_DISTINCT = 12
+SHOWN_BY_DEFAULT = ("source", "example")
+
+
+def classify(relpath: str, distinct_models: int) -> str:
+    """What kind of file a finding is in: `test`, `docs`, `catalogue`, `example` or `source`.
+
+    Most of what a text scan finds is in tests and documentation, which mention models without
+    being configured by them, and in files that merely list every model a library knows. Reporting
+    those as findings is how a scan of a model router returned 6,893 hits. They are kept, labelled,
+    and left out of the default report, which says how many it left out.
+    """
+    path = Path(relpath)
+    folders = {p.lower() for p in path.parts[:-1]}
+    name = path.name
+    if folders & TEST_DIRS or TEST_NAME.search(name):
+        return "test"
+    if path.suffix.lower() in DOC_EXT or folders & DOC_DIRS:
+        return "docs"
+    if distinct_models >= CATALOGUE_DISTINCT or CATALOGUE_NAME.search(name):
+        return "catalogue"
+    if folders & EXAMPLE_DIRS:
+        return "example"
+    return "source"
+
+
 def main() -> int:
     args = [a for a in sys.argv[1:] if not a.startswith("--")]
     flags = [a for a in sys.argv[1:] if a.startswith("--")]
     feed_path, target = args[0], args[1]
     config_only = "--config-only" in flags
     include_floors = "--include-floors" in flags
+    kinds = next((f.split("=", 1)[1].split(",") for f in flags if f.startswith("--kinds=")), None)
+    if "--all" in flags:
+        kinds = ["source", "example", "test", "docs", "catalogue"]
+    kinds = kinds or list(SHOWN_BY_DEFAULT)
     as_json = "--json" in flags or "--format=json" in flags
     within = next((int(f.split("=")[1]) for f in flags if f.startswith("--within-days=")), None)
 
@@ -76,10 +146,10 @@ def main() -> int:
     for e in feed["models"]:
         if not e.get("shutdown"):
             continue
-        # "Not sooner than" is a promise of availability, not a deadline: reporting every
-        # current model for it would bury the findings that matter.
-        if e.get("date_certainty") == "not_earlier_than" and not include_floors:
-            continue
+        # A "not sooner than" date is a promise of availability, not a deadline, so on its own it is
+        # never reported (every current model has one). It is kept here so that it can be SHOWN beside
+        # a decided date for the same id on another platform: gemini-2.5-flash is retired on Vertex AI
+        # but only "not before 2026-12-01" on the Gemini API, and showing just the first misleads.
         if within is not None and e["status"] == "scheduled" and e["days_remaining"] > within:
             continue
         for spelling in [e["id"]] + e.get("also_written_as", []):
@@ -102,15 +172,18 @@ def main() -> int:
                 text = open(path, encoding="utf-8", errors="strict").read()
             except (OSError, UnicodeDecodeError):
                 continue
+            file_findings = []
             for lineno, line in enumerate(text.splitlines(), 1):
                 for mo in pat.finditer(line):
                     es = sorted(by_id[mo.group(1)], key=lambda x: x["shutdown"])
-                    e = es[0]
-                    ctx = ("comment" if COMMENT.match(line)
-                           else "config" if CONFIG.search(line) else "mention")
+                    decided = [x for x in es if x.get("date_certainty") != "not_earlier_than"]
+                    if not decided and not include_floors:
+                        continue
+                    e = (decided or es)[0]
+                    ctx = context_of(line, mo.start())
                     if config_only and ctx != "config":
                         continue
-                    findings.append(dict(
+                    file_findings.append(dict(
                         file=os.path.relpath(path, target), line=lineno, context=ctx,
                         found=mo.group(1), model=e["id"], provider=e["provider"],
                         platform=e["platform"], shutdown=e["shutdown"], status=e["status"],
@@ -122,24 +195,34 @@ def main() -> int:
                                         date_certainty=x.get("date_certainty", "firm"),
                                         replacement=x["replacement"]) for x in es],
                         source_line=line.strip()[:160]))
+            if file_findings:
+                kind = classify(file_findings[0]["file"], len({f["model"] for f in file_findings}))
+                for f in file_findings:
+                    f["kind"] = kind
+                findings.extend(file_findings)
+
+    hidden = collections.Counter(f["kind"] for f in findings if f["kind"] not in kinds)
+    findings = [f for f in findings if f["kind"] in kinds]
 
     if as_json:
         json.dump({"generated_at": today.isoformat(), "feed_generated_at": feed["generated_at"],
-                   "findings": findings}, sys.stdout, indent=1)
+                   "kinds_shown": kinds, "hidden": dict(hidden), "findings": findings}, sys.stdout, indent=1)
         print()
     else:
+        left_out = (f"  Left out: " + ", ".join(f"{n} in {k}" for k, n in sorted(hidden.items()))
+                    + ". See them with --all.") if hidden else ""
         if not findings:
-            print(f"No retired or expiring model ids found in {target}")
+            print(f"No retired or expiring model ids found in {', '.join(kinds)} files of {target}.{left_out}")
             return 0
         retired = [f for f in findings if f["status"] == "retired"]
         print(f"{len(findings)} finding(s) in {target}: "
-              f"{len(retired)} already retired, {len(findings) - len(retired)} scheduled\n")
+              f"{len(retired)} already retired, {len(findings) - len(retired)} scheduled.{left_out}\n")
         for f in sorted(findings, key=lambda f: (f["shutdown"], f["file"], f["line"])):
             def when(x):
                 floor = " or later" if x["date_certainty"] == "not_earlier_than" else ""
                 return (f"RETIRED {x['shutdown']}" if x["status"] == "retired"
                         else f"{x['shutdown']}{floor}")
-            print(f"  {f['file']}:{f['line']}  [{f['context']}]")
+            print(f"  {f['file']}:{f['line']}  [{f['context']}, {f['kind']}]")
             if len(f["platforms"]) > 1:
                 print(f"     {f['found']}  depends on where it runs:")
                 for x in f["platforms"]:
@@ -149,7 +232,7 @@ def main() -> int:
                       f"  -> {f['replacement']}")
             print(f"     | {f['source_line']}")
         print(f"\nFeed read the providers' pages on: "
-              + ", ".join(f"{p} {s['checked']}" for p, s in sorted(feed["sources"].items())))
+              + ", ".join(f"{p} {s.get('read_on') or s.get('checked')}" for p, s in sorted(feed["sources"].items())))
     return 1 if findings else 0
 
 
