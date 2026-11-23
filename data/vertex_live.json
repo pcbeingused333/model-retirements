@@ -1,6 +1,6 @@
 {
  "source": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions",
- "read_on": "2026-11-22",
+ "read_on": "2026-11-23",
  "models": [
   {
    "id": "gemini-4-argon",
@@ -10,7 +10,7 @@
    "shutdown_as_published": "October 13, 2027 or later",
    "date_certainty": "not_earlier_than",
    "status": "active",
-   "days_remaining": 325,
+   "days_remaining": 324,
    "replacement": "",
    "released": "October 13, 2026",
    "source": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions"
@@ -23,7 +23,7 @@
    "shutdown_as_published": "September 25, 2027 or later",
    "date_certainty": "not_earlier_than",
    "status": "active",
-   "days_remaining": 307,
+   "days_remaining": 306,
    "replacement": "",
    "released": "September 24, 2026",
    "source": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions"
@@ -36,7 +36,7 @@
    "shutdown_as_published": "September 2, 2027 or later",
    "date_certainty": "not_earlier_than",
    "status": "active",
-   "days_remaining": 284,
+   "days_remaining": 283,
    "replacement": "",
    "released": "September 2, 2026",
    "source": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions"
@@ -49,7 +49,7 @@
    "shutdown_as_published": "July 21, 2027 or later",
    "date_certainty": "not_earlier_than",
    "status": "active",
-   "days_remaining": 241,
+   "days_remaining": 240,
    "replacement": "",
    "released": "July 21, 2026",
    "source": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions"
@@ -62,7 +62,7 @@
    "shutdown_as_published": "May 19, 2027 or later",
    "date_certainty": "not_earlier_than",
    "status": "active",
-   "days_remaining": 178,
+   "days_remaining": 177,
    "replacement": "",
    "released": "May 19, 2026",
    "source": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions"
@@ -75,7 +75,7 @@
    "shutdown_as_published": "May 7, 2027 or later",
    "date_certainty": "not_earlier_than",
    "status": "active",
-   "days_remaining": 166,
+   "days_remaining": 165,
    "replacement": "",
    "released": "May 7, 2026",
    "source": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions"
@@ -127,7 +127,7 @@
    "shutdown_as_published": "December 13, 2026",
    "date_certainty": "firm",
    "status": "scheduled",
-   "days_remaining": 21,
+   "days_remaining": 20,
    "replacement": "gemini-3.8-live",
    "released": "December 12, 2025",
    "source": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions"
@@ -140,7 +140,7 @@
    "shutdown_as_published": "June 28, 2027 or later",
    "date_certainty": "not_earlier_than",
    "status": "active",
-   "days_remaining": 218,
+   "days_remaining": 217,
    "replacement": "",
    "released": "June 23, 2026",
    "source": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions"
@@ -153,7 +153,7 @@
    "shutdown_as_published": "May 28, 2027 or later",
    "date_certainty": "not_earlier_than",
    "status": "active",
-   "days_remaining": 187,
+   "days_remaining": 186,
    "replacement": "",
    "released": "May 28, 2026",
    "source": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions"
@@ -166,7 +166,7 @@
    "shutdown_as_published": "May 28, 2027 or later",
    "date_certainty": "not_earlier_than",
    "status": "active",
-   "days_remaining": 187,
+   "days_remaining": 186,
    "replacement": "",
    "released": "May 28, 2026",
    "source": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions"
@@ -179,7 +179,7 @@
    "shutdown_as_published": "March 15, 2027",
    "date_certainty": "firm",
    "status": "scheduled",
-   "days_remaining": 113,
+   "days_remaining": 112,
    "replacement": "gemini-3.1-flash-lite-image",
    "released": "October 2, 2025",
    "source": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions"
@@ -192,7 +192,7 @@
    "shutdown_as_published": "November 5, 2027 or later",
    "date_certainty": "not_earlier_than",
    "status": "active",
-   "days_remaining": 348,
+   "days_remaining": 347,
    "replacement": "",
    "released": "November 5, 2026",
    "source": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions"
@@ -205,7 +205,7 @@
    "shutdown_as_published": "May 4, 2027 or later",
    "date_certainty": "not_earlier_than",
    "status": "active",
-   "days_remaining": 163,
+   "days_remaining": 162,
    "replacement": "gemini-omni-1.2-flash",
    "released": "November 17, 2025",
    "source": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions"
@@ -218,7 +218,7 @@
    "shutdown_as_published": "May 4, 2027 or later",
    "date_certainty": "not_earlier_than",
    "status": "active",
-   "days_remaining": 163,
+   "days_remaining": 162,
    "replacement": "gemini-omni-1.2-flash",
    "released": "November 17, 2025",
    "source": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions"
@@ -231,7 +231,7 @@
    "shutdown_as_published": "No sooner than May 20, 2028",
    "date_certainty": "not_earlier_than",
    "status": "active",
-   "days_remaining": 545,
+   "days_remaining": 544,
    "replacement": "",
    "released": "May 20, 2025",
    "source": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions"
@@ -244,7 +244,7 @@
    "shutdown_as_published": "April 1, 2027",
    "date_certainty": "firm",
    "status": "scheduled",
-   "days_remaining": 130,
+   "days_remaining": 129,
    "replacement": "",
    "released": "November 18, 2024",
    "source": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions"
@@ -257,7 +257,7 @@
    "shutdown_as_published": "April 1, 2027",
    "date_certainty": "firm",
    "status": "scheduled",
-   "days_remaining": 130,
+   "days_remaining": 129,
    "replacement": "",
    "released": "May 14, 2024",
    "source": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions"
@@ -270,7 +270,7 @@
    "shutdown_as_published": "April 1, 2027",
    "date_certainty": "firm",
    "status": "scheduled",
-   "days_remaining": 130,
+   "days_remaining": 129,
    "replacement": "",
    "released": "May 14, 2024",
    "source": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions"
@@ -283,7 +283,7 @@
    "shutdown_as_published": "April 1, 2027",
    "date_certainty": "firm",
    "status": "scheduled",
-   "days_remaining": 130,
+   "days_remaining": 129,
    "replacement": "",
    "released": "February 12, 2024",
    "source": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions"
@@ -299,6 +299,19 @@
    "days_remaining": 0,
    "replacement": "",
    "released": "November 18, 2026",
+   "source": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions"
+  },
+  {
+   "id": "gemini-4-neon-cyber-permissive",
+   "provider": "Vertex AI",
+   "platform": "vertex-ai",
+   "shutdown": null,
+   "shutdown_as_published": "No retirement date announced",
+   "date_certainty": "unannounced",
+   "status": "active",
+   "days_remaining": 0,
+   "replacement": "",
+   "released": "November 23, 2026",
    "source": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions"
   },
   {
@@ -374,7 +387,7 @@
    "shutdown_as_published": "January 28, 2027",
    "date_certainty": "firm",
    "status": "scheduled",
-   "days_remaining": 67,
+   "days_remaining": 66,
    "replacement": "gemini-4-hydrogen",
    "released": "August 13, 2026",
    "source": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions"
@@ -387,7 +400,7 @@
    "shutdown_as_published": "January 28, 2027",
    "date_certainty": "firm",
    "status": "scheduled",
-   "days_remaining": 67,
+   "days_remaining": 66,
    "replacement": "gemini-4-hydrogen",
    "released": "July 21, 2026",
    "source": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions"

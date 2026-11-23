@@ -1,39 +1,39 @@
 {
  "schema": "2",
- "generated_at": "2026-11-22",
+ "generated_at": "2026-11-23",
  "note": "Dates as the providers publish them. date_certainty says how to read each: firm (already off), announced (a date the provider gave), not_earlier_than (a floor, not a promise), unannounced (no date), unknown (not confirmed by any page today). verified:false entries were not on any page when this was built.",
  "sources": {
   "OpenAI": {
    "url": "https://developers.openai.com/api/docs/deprecations",
-   "read_on": "2026-11-22",
+   "read_on": "2026-11-23",
    "method": "parsed"
   },
   "Anthropic": {
    "url": "https://platform.claude.com/docs/en/about-claude/model-deprecations",
-   "read_on": "2026-11-22",
+   "read_on": "2026-11-23",
    "method": "parsed"
   },
   "Google": {
    "url": "https://ai.google.dev/gemini-api/docs/deprecations",
-   "read_on": "2026-11-22",
+   "read_on": "2026-11-23",
    "method": "parsed"
   },
   "Vertex AI": {
    "url": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions",
-   "read_on": "2026-11-22",
+   "read_on": "2026-11-23",
    "method": "parsed"
   }
  },
  "counts": {
-  "total": 360,
-  "verified": 353,
+  "total": 362,
+  "verified": 355,
   "unverified": 7,
   "by_certainty": {
    "firm": 268,
    "unknown": 7,
-   "not_earlier_than": 40,
-   "announced": 2,
-   "unannounced": 43
+   "not_earlier_than": 39,
+   "announced": 4,
+   "unannounced": 44
   }
  },
  "models": [
@@ -3676,22 +3676,6 @@
    ]
   },
   {
-   "id": "claude-opus-4-5-20251101",
-   "provider": "Anthropic",
-   "platform": "claude-api",
-   "shutdown": "2026-11-24",
-   "date_certainty": "not_earlier_than",
-   "replacement": "",
-   "announced": null,
-   "page_state": "Active",
-   "via": "status table",
-   "source": "https://platform.claude.com/docs/en/about-claude/model-deprecations",
-   "verified": true,
-   "also_written_as": [
-    "anthropic/claude-opus-4-5-20251101"
-   ]
-  },
-  {
    "id": "claude-sonnet-4-5",
    "provider": "Anthropic",
    "platform": "claude-api",
@@ -4508,6 +4492,38 @@
    "verified": true,
    "also_written_as": [
     "openai/gpt-realtime-mini-2025-12-15"
+   ]
+  },
+  {
+   "id": "claude-opus-4-5",
+   "provider": "Anthropic",
+   "platform": "claude-api",
+   "shutdown": "2027-01-22",
+   "date_certainty": "announced",
+   "replacement": "claude-opus-5-5",
+   "announced": "2026-11-23",
+   "page_state": "Deprecated",
+   "via": "alias of claude-opus-4-5-20251101, stated in the page's prose",
+   "source": "https://platform.claude.com/docs/en/about-claude/model-deprecations",
+   "verified": true,
+   "also_written_as": [
+    "anthropic/claude-opus-4-5"
+   ]
+  },
+  {
+   "id": "claude-opus-4-5-20251101",
+   "provider": "Anthropic",
+   "platform": "claude-api",
+   "shutdown": "2027-01-22",
+   "date_certainty": "announced",
+   "replacement": "claude-opus-5-5",
+   "announced": "2026-11-23",
+   "page_state": "Deprecated",
+   "via": "status table",
+   "source": "https://platform.claude.com/docs/en/about-claude/model-deprecations",
+   "verified": true,
+   "also_written_as": [
+    "anthropic/claude-opus-4-5-20251101"
    ]
   },
   {
@@ -6103,6 +6119,22 @@
    "also_written_as": [
     "vertex_ai/gemini-4-neon",
     "publishers/google/models/gemini-4-neon"
+   ]
+  },
+  {
+   "id": "gemini-4-neon-cyber-permissive",
+   "provider": "Vertex AI",
+   "platform": "vertex-ai",
+   "shutdown": null,
+   "shutdown_as_published": "No retirement date announced",
+   "date_certainty": "unannounced",
+   "replacement": "",
+   "released": "November 23, 2026",
+   "source": "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions",
+   "verified": true,
+   "also_written_as": [
+    "vertex_ai/gemini-4-neon-cyber-permissive",
+    "publishers/google/models/gemini-4-neon-cyber-permissive"
    ]
   },
   {
